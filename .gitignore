@@ -1,0 +1,12 @@
+node_modules
+dist
+*.tsbuildinfo
+.DS_Store
+/vite.config.js
+/vite.config.d.ts
+/vitest.config.js
+/vitest.config.d.ts
+/scripts/*.js
+/scripts/*.d.ts
+/src/essay.js
+/src/essay.d.ts

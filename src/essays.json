@@ -1,0 +1,3740 @@
+[
+  {
+    "id": "sociology-opinion",
+    "number": 1,
+    "topic": "Sociology",
+    "type": "Opinion",
+    "source": "IDP",
+    "question": "Many people feel that most of the urgent problems can only be solved by international cooperation. To what extent do you agree or disagree?",
+    "paragraphSizes": [
+      3,
+      4,
+      4,
+      3,
+      3
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "The world today faces numerous pressing challenges, such as climate change, pandemics, and economic instability.",
+        "chinese": "当今世界面临许多紧迫的挑战，比如气候变化、流行病和经济不稳定。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "While some believe that individual nations can tackle these problems independently, I strongly agree that international cooperation is essential to effectively address these global issues.",
+        "chinese": "尽管有些人认为各国可以单独解决这些问题，但我认为，要有效解决这些全球性问题，国际合作必不可少。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "This is because these problems transcend borders, require shared resources, and demand collective expertise.",
+        "chinese": "这是因为这些问题会跨越国界，需要各国共享资源，也需要汇集多方面的专业知识。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "Firstly, many urgent problems, such as climate change, are inherently global in nature.",
+        "chinese": "首先，许多紧迫问题，比如气候变化，本身就是全球性的。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "Environmental issues like rising temperatures and deforestation do not respect national borders, meaning that the actions of one country can directly affect others.",
+        "chinese": "气温上升和森林砍伐等环境问题不会止步于国界，因此一个国家的行为会直接影响其他国家。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "For instance, greenhouse gas emissions from industrialized nations contribute to global warming, which impacts even the smallest island nations.",
+        "chinese": "例如，工业化国家排放的温室气体会加剧全球变暖，哪怕最小的岛国也会受到影响。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "Only through international agreements, such as the Paris Climate Accord, can countries work together to reduce emissions and mitigate the effects of climate change.",
+        "chinese": "各国只有通过《巴黎气候协定》这样的国际协议共同努力，才能减少排放，减轻气候变化带来的影响。"
+      },
+      {
+        "id": 8,
+        "paragraph": 3,
+        "english": "Secondly, international cooperation allows for the pooling of resources and expertise to solve complex problems.",
+        "chinese": "其次，国际合作可以汇集各国的资源和专业知识，从而解决复杂问题。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "For example, during the COVID-19 pandemic, countries collaborated to develop vaccines at an unprecedented speed.",
+        "chinese": "例如，在新冠疫情期间，各国合作，以前所未有的速度研发出了疫苗。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "Sharing scientific research, funding, and distribution networks ensured that vaccines became available to both developed and developing nations.",
+        "chinese": "通过共享科研成果、资金和分发网络，发达国家和发展中国家都能获得疫苗。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "Without this level of global collaboration, the pandemic would likely have caused even greater devastation.",
+        "chinese": "如果没有这种程度的全球合作，疫情很可能会造成更加严重的破坏。"
+      },
+      {
+        "id": 12,
+        "paragraph": 4,
+        "english": "Finally, global challenges often require the enforcement of international laws and regulations, which cannot be achieved by individual nations alone.",
+        "chinese": "最后，全球性挑战往往需要执行国际法律和规则，而任何一个国家都无法独自做到这一点。"
+      },
+      {
+        "id": 13,
+        "paragraph": 4,
+        "english": "Issues like human trafficking, cybercrime, and terrorism require coordinated efforts between governments, international organizations, and law enforcement agencies.",
+        "chinese": "人口贩卖、网络犯罪和恐怖主义等问题，需要各国政府、国际组织和执法机构协调行动。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "For example, INTERPOL plays a crucial role in helping countries combat transnational crime, which no single nation could handle independently.",
+        "chinese": "例如，国际刑警组织在帮助各国打击跨国犯罪方面发挥着关键作用，而这种犯罪不是任何一个国家能够独自应对的。"
+      },
+      {
+        "id": 15,
+        "paragraph": 5,
+        "english": "In conclusion, I strongly believe that international cooperation is vital for solving the world’s most urgent problems.",
+        "chinese": "总之，我坚信，国际合作对于解决世界上最紧迫的问题至关重要。"
+      },
+      {
+        "id": 16,
+        "paragraph": 5,
+        "english": "Whether it is addressing climate change, managing global health crises, or combating transnational crime, working together ensures that resources, expertise, and enforcement are shared effectively.",
+        "chinese": "无论是应对气候变化、处理全球公共卫生危机，还是打击跨国犯罪，只要各国合作，就能有效共享资源和专业知识，也能协调执法行动。"
+      },
+      {
+        "id": 17,
+        "paragraph": 5,
+        "english": "Only through unity can humanity overcome these monumental challenges.",
+        "chinese": "人类只有团结起来，才能战胜这些巨大的挑战。"
+      }
+    ]
+  },
+  {
+    "id": "sociology-discussion",
+    "number": 2,
+    "topic": "Sociology",
+    "type": "Discussion",
+    "source": "C17",
+    "question": "Some people believe that professionals, such as doctors and engineers, should be required to work in the country where they did their training. Others believe they should be free to work in another country if they wish. Discuss both these views and give your own opinion.",
+    "paragraphSizes": [
+      3,
+      4,
+      5,
+      4,
+      3
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "The migration of skilled professionals, such as doctors and engineers, is a topic of ongoing debate.",
+        "chinese": "医生、工程师等专业人才的流动，一直是一个争论不休的话题。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "While some argue that these individuals should be obligated to serve the country where they were trained, others believe they should have the freedom to work wherever they choose.",
+        "chinese": "有人认为，这些人才有义务为培养他们的国家服务；也有人认为，他们应该有自由选择在任何地方工作的权利。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "This essay will examine both perspectives before presenting my own opinion that professionals should have the right to decide where they work.",
+        "chinese": "本文将探讨这两种观点，然后提出我的看法：专业人才应该有权决定自己在哪里工作。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "On the one hand, requiring professionals to work in their training country can benefit the nation.",
+        "chinese": "一方面，要求专业人才留在培养他们的国家工作，对国家是有好处的。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "Governments often invest significant resources in education and training programs, particularly for fields like medicine and engineering.",
+        "chinese": "政府通常在教育和培训项目上投入大量资源，尤其是在医学和工程等领域。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "If these professionals leave, the country may face a shortage of skilled workers, which can negatively impact public services.",
+        "chinese": "如果这些人才离开，国家可能会面临技能人才短缺的问题，从而对公共服务造成负面影响。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "For example, many developing countries struggle with \"brain drain,\" where highly educated individuals migrate to wealthier nations for better opportunities, leaving their home countries with insufficient healthcare or infrastructure expertise.",
+        "chinese": "例如，许多发展中国家都深受“人才流失”的困扰：受过高等教育的人为了更好的发展机会移居到更富裕的国家，导致本国缺乏医疗或基础设施方面的专业人才。"
+      },
+      {
+        "id": 8,
+        "paragraph": 3,
+        "english": "On the other hand, professionals should have the freedom to choose where they work.",
+        "chinese": "另一方面，专业人才应该有选择工作地点的自由。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "Everyone has the right to pursue better career opportunities, higher salaries, or improved living conditions.",
+        "chinese": "每个人都有权追求更好的职业机会、更高的薪水或更好的生活条件。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "Restricting their movement could be seen as unfair and counterproductive.",
+        "chinese": "限制他们的流动可能被视为不公平，而且会适得其反。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "For instance, allowing professionals to work abroad can lead to the exchange of knowledge and skills, which they might bring back to their home country in the future.",
+        "chinese": "例如，允许专业人才到国外工作可以促进知识和技能的交流，将来他们可能会把这些带回自己的祖国。"
+      },
+      {
+        "id": 12,
+        "paragraph": 3,
+        "english": "Additionally, remittances sent by migrants often contribute significantly to the economy of their home country.",
+        "chinese": "此外，移民汇回国的款项往往能为本国经济作出重要贡献。"
+      },
+      {
+        "id": 13,
+        "paragraph": 4,
+        "english": "In my opinion, while it is important for countries to retain skilled workers, forcing professionals to stay is not the solution.",
+        "chinese": "在我看来，虽然国家留住技能人才很重要，但强迫专业人才留下并不是解决办法。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "Instead, governments should create incentives, such as competitive salaries and better working conditions, to encourage them to remain.",
+        "chinese": "相反，政府应该提供激励措施，比如有竞争力的薪酬和更好的工作条件，来鼓励他们留下。"
+      },
+      {
+        "id": 15,
+        "paragraph": 4,
+        "english": "For example, countries like Singapore have successfully retained their talent by offering attractive career prospects and high-quality infrastructure.",
+        "chinese": "例如，新加坡等国家通过提供有吸引力的职业前景和高质量的基础设施，成功留住了人才。"
+      },
+      {
+        "id": 16,
+        "paragraph": 4,
+        "english": "This approach respects individual freedom while addressing the issue of brain drain.",
+        "chinese": "这种做法既尊重了个人自由，又解决了人才流失的问题。"
+      },
+      {
+        "id": 17,
+        "paragraph": 5,
+        "english": "In conclusion, while requiring professionals to work in their training country can address skill shortages, it is essential to respect their right to choose where they work.",
+        "chinese": "总之，虽然要求专业人才留在培养他们的国家工作可以缓解技能人才短缺的问题，但必须尊重他们选择工作地点的权利。"
+      },
+      {
+        "id": 18,
+        "paragraph": 5,
+        "english": "Governments should focus on creating environments that encourage professionals to stay voluntarily, rather than imposing restrictions.",
+        "chinese": "政府应该致力于营造鼓励专业人才自愿留下的环境，而不是强加限制。"
+      },
+      {
+        "id": 19,
+        "paragraph": 5,
+        "english": "This way, both individuals and nations can benefit.",
+        "chinese": "这样，个人和国家都能受益。"
+      }
+    ]
+  },
+  {
+    "id": "sociology-advantages-vs-disadvantages-or-positive-vs-negative",
+    "number": 3,
+    "topic": "Sociology",
+    "type": "Advantages vs Disadvantages or Positive vs Negative",
+    "source": "C18",
+    "question": "In many countries, people are now living longer than ever before. Some people say an ageing population creates problems for governments. Other people think there are benefits if society has more elderly people. To what extent do the advantages of having an ageing population outweigh the disadvantages?",
+    "paragraphSizes": [
+      3,
+      5,
+      4,
+      3,
+      2
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "The increasing life expectancy in many countries has sparked debates about its impact on society.",
+        "chinese": "许多国家预期寿命的延长，引发了人们对其社会影响的争论。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "While some argue that an aging population creates challenges for governments, others believe it brings benefits.",
+        "chinese": "有人认为人口老龄化给政府带来了挑战，也有人认为它带来了好处。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "In my opinion, although there are disadvantages, such as economic pressure, the advantages, including the wisdom and experience of elderly people, outweigh these drawbacks.",
+        "chinese": "在我看来，尽管存在经济压力等不利因素，但老年人的智慧和经验等好处，超过了这些弊端。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "One significant disadvantage of an aging population is the financial strain it places on governments.",
+        "chinese": "人口老龄化的一个显著弊端，是它给政府带来的财政压力。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "Older people often rely on pensions and healthcare services, which are funded by taxes.",
+        "chinese": "老年人往往依赖养老金和医疗服务，而这些都靠税收来支撑。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "As the proportion of elderly people grows, fewer working-age individuals are available to support these systems.",
+        "chinese": "随着老年人口比例的增加，能够支撑这些体系的劳动年龄人口越来越少。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "For example, countries like Japan face challenges in maintaining their pension systems due to a declining birth rate and an aging population.",
+        "chinese": "例如，日本这样的国家由于出生率下降和人口老龄化，在维持养老金体系方面面临挑战。"
+      },
+      {
+        "id": 8,
+        "paragraph": 2,
+        "english": "This can lead to increased taxes or reduced benefits, which may burden younger generations.",
+        "chinese": "这可能导致税收增加或福利减少，从而加重年轻一代的负担。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "However, having more elderly people in society also offers several benefits.",
+        "chinese": "然而，社会上老年人增多也带来了一些好处。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "Older individuals often possess a wealth of knowledge and experience that can be invaluable to younger generations.",
+        "chinese": "老年人往往拥有丰富的知识和经验，这对年轻一代来说非常宝贵。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "For instance, grandparents frequently play an essential role in families by providing childcare and emotional support.",
+        "chinese": "例如，祖父母常常在家庭中扮演重要角色，帮忙照顾孩子并提供情感支持。"
+      },
+      {
+        "id": 12,
+        "paragraph": 3,
+        "english": "Additionally, many elderly people continue contributing to society through volunteer work or mentorship programs, fostering a sense of community and continuity.",
+        "chinese": "此外，许多老年人通过志愿服务或指导项目继续为社会做贡献，增强了社区的凝聚力和延续性。"
+      },
+      {
+        "id": 13,
+        "paragraph": 4,
+        "english": "In my view, the advantages of an aging population can outweigh the disadvantages if governments take proactive measures.",
+        "chinese": "在我看来，如果政府采取积极主动的措施，人口老龄化的好处是可以超过坏处的。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "For example, raising the retirement age and encouraging older people to remain active in the workforce can help reduce economic pressure.",
+        "chinese": "例如，提高退休年龄、鼓励老年人继续工作，可以帮助减轻经济压力。"
+      },
+      {
+        "id": 15,
+        "paragraph": 4,
+        "english": "Moreover, promoting healthy lifestyles can ensure that elderly individuals remain independent for longer, reducing the burden on healthcare systems.",
+        "chinese": "此外，提倡健康的生活方式可以让老年人更长久地保持独立生活，从而减轻医疗体系的负担。"
+      },
+      {
+        "id": 16,
+        "paragraph": 5,
+        "english": "In conclusion, while an aging population can create economic challenges, the benefits of having more elderly people, such as their wisdom and contributions to society, are significant.",
+        "chinese": "总之，虽然人口老龄化会带来经济上的挑战，但老年人增多所带来的好处，比如他们的智慧和对社会的贡献，是非常可观的。"
+      },
+      {
+        "id": 17,
+        "paragraph": 5,
+        "english": "With appropriate policies, societies can address the drawbacks and fully embrace the advantages of longer life expectancy.",
+        "chinese": "有了恰当的政策，社会就能化解这些弊端，并充分享受寿命延长带来的好处。"
+      }
+    ]
+  },
+  {
+    "id": "sociology-cause-and-solution",
+    "number": 4,
+    "topic": "Sociology",
+    "type": "Cause and Solution",
+    "source": "IDP",
+    "question": "In many cities an increasing number of people do not know their neighbours and there is a lack of sense of community. What are the causes of this problem? How can it be solved?",
+    "paragraphSizes": [
+      3,
+      4,
+      3,
+      4,
+      2
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "In modern cities, it is becoming increasingly common for people to lack connections with their neighbours, leading to a diminished sense of community.",
+        "chinese": "在现代城市里，人们与邻居之间缺乏联系的情况越来越普遍，导致社区归属感日渐淡薄。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "This issue is primarily caused by urban lifestyles and technological advancements.",
+        "chinese": "这个问题主要是由城市生活方式和科技进步造成的。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "However, there are several solutions that can help rebuild social bonds and foster stronger communities.",
+        "chinese": "不过，有几种解决办法可以帮助重建社会纽带，培育更紧密的社区。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "One major cause of this problem is the fast-paced lifestyle in urban areas.",
+        "chinese": "造成这一问题的一个主要原因，是城市快节奏的生活方式。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "People in cities often have demanding jobs and long commutes, leaving them with little time or energy to interact with their neighbours.",
+        "chinese": "城市人往往工作繁重、通勤时间长，几乎没有时间和精力与邻居来往。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "Additionally, the rise of apartment living has reduced opportunities for casual interactions, as people frequently move between cities and do not stay in one place for long.",
+        "chinese": "此外，公寓生活的普及减少了人们随意交流的机会，因为人们经常在城市之间搬迁，不会在一个地方久住。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "This transient lifestyle makes it difficult to form lasting relationships.",
+        "chinese": "这种经常搬迁的生活方式，让人很难建立长久的关系。"
+      },
+      {
+        "id": 8,
+        "paragraph": 3,
+        "english": "Another contributing factor is the increasing reliance on technology for communication and entertainment.",
+        "chinese": "另一个促成因素，是人们越来越依赖科技来沟通和娱乐。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "Many people spend their free time on social media or streaming platforms, which reduces face-to-face interactions with those around them.",
+        "chinese": "许多人把空闲时间花在社交媒体或流媒体平台上，减少了与周围人面对面的交流。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "For instance, instead of meeting neighbours in person, individuals may choose to connect with friends online, further weakening local community ties.",
+        "chinese": "例如，人们可能选择在网上与朋友联系，而不是与邻居当面往来，这进一步削弱了当地社区的纽带。"
+      },
+      {
+        "id": 11,
+        "paragraph": 4,
+        "english": "To address this issue, governments and communities can take several steps.",
+        "chinese": "为了解决这个问题，政府和社区可以采取几项措施。"
+      },
+      {
+        "id": 12,
+        "paragraph": 4,
+        "english": "Firstly, organizing local events, such as neighbourhood festivals or community clean-ups, can encourage residents to meet and interact.",
+        "chinese": "首先，组织邻里节庆或社区大扫除等本地活动，可以鼓励居民见面交流。"
+      },
+      {
+        "id": 13,
+        "paragraph": 4,
+        "english": "Secondly, urban planners should design housing areas with shared spaces, such as parks or communal gardens, to facilitate social interaction.",
+        "chinese": "其次，城市规划者在设计住宅区时应该加入公园或社区花园等共享空间，以促进社交互动。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "Finally, raising awareness about the importance of community through campaigns or educational programs can motivate individuals to engage with their neighbours.",
+        "chinese": "最后，通过宣传活动或教育项目提高人们对社区重要性的认识，可以激励大家主动与邻居交往。"
+      },
+      {
+        "id": 15,
+        "paragraph": 5,
+        "english": "In conclusion, the lack of a sense of community in cities is largely due to busy lifestyles and the influence of technology.",
+        "chinese": "总之，城市社区归属感的缺失，很大程度上是由于忙碌的生活方式和科技的影响。"
+      },
+      {
+        "id": 16,
+        "paragraph": 5,
+        "english": "However, by promoting local events, creating shared spaces, and encouraging social awareness, communities can rebuild connections and foster stronger neighbourhood relationships.",
+        "chinese": "不过，通过推广本地活动、打造共享空间、让人们更加重视社区，社区就能重建联系，培养更紧密的邻里关系。"
+      }
+    ]
+  },
+  {
+    "id": "sociology-multi-part",
+    "number": 5,
+    "topic": "Sociology",
+    "type": "Multi-part",
+    "source": "C16",
+    "question": "In some countries, more and more people are becoming interested in finding out about the history of the house or building they live in. What are the reasons for this? How can people research this?",
+    "paragraphSizes": [
+      3,
+      4,
+      3,
+      5,
+      2
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "In recent years, there has been a growing curiosity among people to discover the history of their homes or buildings.",
+        "chinese": "近年来，人们越来越想探究自己房屋或建筑的历史。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "This trend can be attributed to a desire to connect with the past and understand the cultural or historical significance of their surroundings.",
+        "chinese": "这种趋势源于人们想要与过去建立联系，并了解自己所处环境的文化或历史意义。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "There are several ways to research such information, including public records, online resources, and local archives.",
+        "chinese": "研究这类信息有几种途径，包括公共记录、网络资源和地方档案馆。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "One reason for this interest is the emotional connection people feel with their homes.",
+        "chinese": "人们产生这种兴趣的一个原因，是他们与自己房子之间的情感联系。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "Many individuals want to know who lived in their house before them, what events took place there, or whether the building has any historical importance.",
+        "chinese": "许多人想知道以前谁住过自己的房子，那里发生过什么事，或者这栋建筑是否具有历史意义。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "For example, in older cities, homes often have unique architectural styles or may have been owned by notable figures, which adds a sense of pride and fascination for the current residents.",
+        "chinese": "例如，在历史悠久的城市里，老房子往往有独特的建筑风格，或者曾经属于名人，这会让现在的住户感到自豪和着迷。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "Additionally, some people are motivated by practical reasons, such as uncovering potential legal or structural issues related to the property’s past.",
+        "chinese": "此外，一些人则是出于实际考虑，比如想查明房产过去可能存在的法律或结构问题。"
+      },
+      {
+        "id": 8,
+        "paragraph": 3,
+        "english": "Another reason is the growing popularity of heritage preservation and storytelling.",
+        "chinese": "另一个原因是，遗产保护和讲述历史故事越来越受欢迎。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "Television programs, documentaries, and online platforms often highlight the charm of older buildings and their histories, inspiring people to explore their own homes’ pasts.",
+        "chinese": "电视节目、纪录片和网络平台经常展现老建筑及其历史的魅力，激发人们去探寻自己房子的过去。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "Furthermore, understanding the history of a building can create a sense of belonging and community, as residents learn how their homes fit into the broader narrative of the area.",
+        "chinese": "此外，了解一栋建筑的历史能带来归属感和社区感，因为居民会了解到自己的房子是如何融入这个地区更宏大的故事中的。"
+      },
+      {
+        "id": 11,
+        "paragraph": 4,
+        "english": "To research the history of a house or building, people can start by accessing public records or local government archives.",
+        "chinese": "要研究一栋房屋或建筑的历史，人们可以先查阅公共记录或地方政府档案。"
+      },
+      {
+        "id": 12,
+        "paragraph": 4,
+        "english": "These often contain information about property ownership, construction dates, and permits.",
+        "chinese": "这些资料通常包含房产所有权、建造日期和许可证等信息。"
+      },
+      {
+        "id": 13,
+        "paragraph": 4,
+        "english": "Additionally, libraries and historical societies can provide access to old maps, photographs, and documents.",
+        "chinese": "此外，图书馆和历史协会还能让人查阅旧地图、照片和文献资料。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "Online resources, such as genealogy websites or forums, can also be helpful for tracing the history of previous residents.",
+        "chinese": "家谱网站或论坛等网络资源，也有助于追溯以往住户的历史。"
+      },
+      {
+        "id": 15,
+        "paragraph": 4,
+        "english": "Finally, speaking to long-term neighbours or community members may reveal interesting stories or details that are not officially recorded.",
+        "chinese": "最后，与老街坊或社区成员交谈，可能会发现一些没有正式记载的有趣故事或细节。"
+      },
+      {
+        "id": 16,
+        "paragraph": 5,
+        "english": "In conclusion, the growing interest in discovering the history of homes is driven by emotional connections, practical concerns, and a fascination with heritage.",
+        "chinese": "总之，人们越来越想探究房屋历史，是因为对房子有感情、有实际顾虑，也对历史遗产很感兴趣。"
+      },
+      {
+        "id": 17,
+        "paragraph": 5,
+        "english": "By utilizing public records, online tools, and community resources, people can uncover valuable insights into the past, enriching their understanding of their homes and their place in history.",
+        "chinese": "通过利用公共记录、网络工具和社区资源，人们可以发掘关于过去的宝贵信息，更了解自己的房子，也更清楚它在历史中的位置。"
+      }
+    ]
+  },
+  {
+    "id": "education-opinion",
+    "number": 6,
+    "topic": "Education",
+    "type": "Opinion",
+    "source": "",
+    "question": "Some people think that schools are no longer necessary because people can acquire information on the Internet. To what extent do you agree or disagree?",
+    "paragraphSizes": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "With the rise of the Internet, many believe that traditional schools are becoming obsolete, as people can now access vast amounts of information online.",
+        "chinese": "随着互联网的兴起，许多人认为传统学校正变得过时，因为现在人们可以在网上获取海量信息。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "However, I strongly disagree with this view.",
+        "chinese": "然而，我强烈反对这种观点。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "While the Internet is a valuable resource for learning, schools play a vital role in providing structured education, fostering social development, and preparing students for the real world.",
+        "chinese": "虽然互联网是宝贵的学习资源，但学校起着至关重要的作用：它提供系统的教育，促进学生的社交发展，并帮助学生为走进现实社会做好准备。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "Firstly, schools offer a structured and comprehensive approach to education that the Internet cannot replicate.",
+        "chinese": "首先，学校提供的是一种系统而全面的教育方式，这是互联网无法复制的。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "Teachers design lessons to ensure students learn concepts step by step, which is essential for building a strong foundation in subjects like mathematics, science, and languages.",
+        "chinese": "老师设计课程，确保学生循序渐进地学习概念，这对他们在数学、科学和语言等学科上打下坚实基础至关重要。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "In contrast, self-directed learning online can be overwhelming, as students may struggle to identify reliable sources or understand complex topics without guidance.",
+        "chinese": "相比之下，在网上自学可能会让人不知所措，因为如果没有指导，学生可能很难辨别可靠的信息来源，也很难理解复杂的内容。"
+      },
+      {
+        "id": 7,
+        "paragraph": 3,
+        "english": "Secondly, schools provide a social environment where students develop interpersonal skills.",
+        "chinese": "其次，学校提供了一个社交环境，学生可以在其中培养人际交往能力。"
+      },
+      {
+        "id": 8,
+        "paragraph": 3,
+        "english": "Interacting with peers and teachers helps children learn teamwork, communication, and conflict resolution, which are critical for success in both personal and professional life.",
+        "chinese": "与同学和老师的互动能帮助孩子学会团队合作、沟通交流和化解冲突，这些能力对个人生活和职场上的成功都至关重要。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "For example, participating in group projects or extracurricular activities teaches students how to collaborate and respect diverse perspectives—skills that cannot be fully developed through online learning alone.",
+        "chinese": "例如，参加小组项目或课外活动能教会学生如何协作、如何尊重不同的观点——这些技能仅靠在线学习是无法充分培养的。"
+      },
+      {
+        "id": 10,
+        "paragraph": 4,
+        "english": "Finally, schools prepare students for the challenges of the real world by fostering discipline and responsibility.",
+        "chinese": "最后，学校通过培养学生的自律和责任感，帮助他们为迎接现实世界的挑战做好准备。"
+      },
+      {
+        "id": 11,
+        "paragraph": 4,
+        "english": "Attending classes, completing assignments, and adhering to schedules teach students time management and accountability.",
+        "chinese": "上课、完成作业、遵守时间安排，这些都能教会学生管理时间、对自己的行为负责。"
+      },
+      {
+        "id": 12,
+        "paragraph": 4,
+        "english": "These qualities are difficult to cultivate through online learning, where there is often less structure and fewer consequences for missed deadlines.",
+        "chinese": "这些品质很难通过在线学习培养出来，因为在线学习往往缺少约束，错过了截止日期也很少会有什么后果。"
+      },
+      {
+        "id": 13,
+        "paragraph": 5,
+        "english": "In conclusion, while the Internet is a powerful tool for acquiring knowledge, it cannot replace the essential functions of schools.",
+        "chinese": "总而言之，虽然互联网是获取知识的强大工具，但它无法取代学校的核心职能。"
+      },
+      {
+        "id": 14,
+        "paragraph": 5,
+        "english": "The structured education, social interaction, and life skills provided by schools are crucial for holistic development.",
+        "chinese": "学校提供的系统教育、社交互动和生活技能，对学生的全面发展至关重要。"
+      },
+      {
+        "id": 15,
+        "paragraph": 5,
+        "english": "Therefore, I believe schools will continue to play an indispensable role in society.",
+        "chinese": "因此，我相信学校将继续在社会中发挥不可或缺的作用。"
+      }
+    ]
+  },
+  {
+    "id": "education-discussion",
+    "number": 7,
+    "topic": "Education",
+    "type": "Discussion",
+    "source": "C18",
+    "question": "Some university students want to learn about other subjects in addition to their main subjects. Other believe it is important to give all their time and attention to studying for a qualification. Discuss both views and give your own opinion.",
+    "paragraphSizes": [
+      3,
+      4,
+      4,
+      4,
+      2
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "University education plays a crucial role in shaping a student’s future.",
+        "chinese": "大学教育在塑造学生的未来方面起着至关重要的作用。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "While some students prefer to focus solely on their main field of study, others believe that exploring additional subjects can provide them with a broader perspective.",
+        "chinese": "有些学生喜欢只专注于自己的主修专业，另一些学生则认为，多涉猎一些其他学科能让自己拥有更广阔的视野。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "This essay will discuss both views before presenting my own opinion that a balance between the two approaches is the most beneficial.",
+        "chinese": "本文将先讨论这两种观点，然后提出我自己的看法：在两种方式之间取得平衡才是最有益的。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "On the one hand, focusing entirely on a single subject allows students to gain in-depth knowledge and expertise.",
+        "chinese": "一方面，完全专注于一门学科能让学生获得深入的知识和专业技能。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "This is particularly important for specialized fields such as medicine, engineering, or law, where a deep understanding of the subject is necessary for success.",
+        "chinese": "这一点对医学、工程或法律等专业性很强的领域尤其重要，因为在这些领域，要想成功就必须对学科有深刻的理解。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "For example, medical students must dedicate years to mastering anatomy and clinical skills to become competent doctors.",
+        "chinese": "例如，医学生必须花数年时间掌握解剖学和临床技能，才能成为合格的医生。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "Diverting their attention to unrelated subjects could hinder their progress and reduce their chances of excelling in their careers.",
+        "chinese": "如果把注意力分散到无关的学科上，可能会拖慢他们的进度，降低他们在职业生涯中脱颖而出的机会。"
+      },
+      {
+        "id": 8,
+        "paragraph": 3,
+        "english": "On the other hand, learning about other subjects can provide students with a more well-rounded education.",
+        "chinese": "另一方面，学习其他学科能让学生接受更全面的教育。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "Exposure to diverse fields, such as philosophy, history, or business, can enhance critical thinking, creativity, and problem-solving skills.",
+        "chinese": "接触哲学、历史或商业等不同领域，可以提升批判性思维、创造力和解决问题的能力。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "For instance, an engineering student who takes courses in entrepreneurship may develop the skills needed to start their own company.",
+        "chinese": "比如，一个选修了创业课程的工程专业学生，可能会培养出创办自己公司所需的技能。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "Additionally, studying a variety of subjects can help students adapt to a rapidly changing job market, where employers often value versatility and transferable skills.",
+        "chinese": "此外，学习多种学科能帮助学生适应瞬息万变的就业市场，因为雇主往往看重多方面的能力和可迁移的技能。"
+      },
+      {
+        "id": 12,
+        "paragraph": 4,
+        "english": "In my opinion, the ideal approach is a combination of both specialization and exploration.",
+        "chinese": "在我看来，最理想的方式是把专业深耕和广泛涉猎结合起来。"
+      },
+      {
+        "id": 13,
+        "paragraph": 4,
+        "english": "While students should prioritize their main subject to build expertise, universities should encourage them to take a few elective courses outside their field.",
+        "chinese": "学生应当以主修科目为重，以此建立专业能力，但大学也应该鼓励他们选修几门本领域之外的课程。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "This approach allows students to develop a strong foundation in their chosen discipline while also gaining valuable insights from other areas of study.",
+        "chinese": "这种方式既能让学生在自己选择的学科上打下坚实的基础，又能让他们从其他学习领域获得宝贵的见解。"
+      },
+      {
+        "id": 15,
+        "paragraph": 4,
+        "english": "For example, many universities now offer interdisciplinary programs that combine technology and humanities, preparing students for a wider range of career opportunities.",
+        "chinese": "例如，许多大学现在开设了融合科技与人文的跨学科项目，让学生为迎接更广泛的职业机会做好准备。"
+      },
+      {
+        "id": 16,
+        "paragraph": 5,
+        "english": "In conclusion, while focusing solely on one subject ensures expertise, exploring other subjects can provide students with additional skills and perspectives.",
+        "chinese": "总而言之，只专注于一门学科能确保专业能力，而涉猎其他学科则能让学生获得额外的技能和视野。"
+      },
+      {
+        "id": 17,
+        "paragraph": 5,
+        "english": "I believe that a balanced approach, where students dedicate most of their time to their main field while also taking a few additional courses, is the most effective way to prepare for both professional success and personal growth.",
+        "chinese": "我认为，均衡的方式——学生把大部分时间投入主修领域，同时再修几门其他课程——是为职业成功和个人成长做准备的最有效途径。"
+      }
+    ]
+  },
+  {
+    "id": "education-advantages-vs-disadvantages-or-positive-vs-negative",
+    "number": 8,
+    "topic": "Education",
+    "type": "Advantages vs Disadvantages or Positive vs Negative",
+    "source": "C15",
+    "question": "In some cultures, children are often told that they can achieve anything if they try hard enough. What are the advantages and disadvantages of giving children this message?",
+    "paragraphSizes": [
+      3,
+      4,
+      5,
+      3,
+      3
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "In many cultures, children are encouraged to believe that they can achieve anything through hard work.",
+        "chinese": "在许多文化中，人们鼓励孩子相信：只要努力，就能做成任何事。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "While this message can inspire ambition and resilience, it can also lead to unrealistic expectations and unnecessary pressure.",
+        "chinese": "这种说法虽然能激发孩子的抱负和韧性，但也可能带来不切实际的期望和不必要的压力。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "This essay will discuss both the advantages and disadvantages of this mindset.",
+        "chinese": "本文将讨论这种心态的利与弊。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "One significant advantage of this belief is that it motivates children to work hard and persevere in the face of challenges.",
+        "chinese": "这种信念的一个显著好处是，它能激励孩子努力奋斗，在困难面前坚持不懈。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "When children are taught that success is achievable through effort, they are more likely to develop a strong work ethic and determination.",
+        "chinese": "如果孩子从小被教导成功可以通过努力获得，他们就更有可能养成勤奋的态度和坚定的决心。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "For example, many successful athletes and entrepreneurs credit their achievements to the belief that hard work can overcome obstacles.",
+        "chinese": "例如，许多成功的运动员和企业家都把自己的成就归功于这样一种信念：努力可以克服困难。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "This mindset also helps children build resilience, as they learn to view failures as opportunities for growth rather than insurmountable barriers.",
+        "chinese": "这种心态还能帮助孩子培养韧性，因为他们学会了把失败看作成长的机会，而不是无法逾越的障碍。"
+      },
+      {
+        "id": 8,
+        "paragraph": 3,
+        "english": "However, this belief can also have drawbacks.",
+        "chinese": "然而，这种信念也有弊端。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "One major disadvantage is that it may create unrealistic expectations.",
+        "chinese": "一个主要的缺点是，它可能会带来不切实际的期望。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "Not all goals can be achieved through hard work alone, as factors such as talent, opportunity, and external circumstances also play a role.",
+        "chinese": "并非所有目标都能只靠努力实现，因为天赋、机遇和外部环境等因素也在起作用。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "For instance, a child who dreams of becoming a professional singer may not succeed despite years of practice if they lack natural ability.",
+        "chinese": "比如，一个梦想成为职业歌手的孩子，如果缺乏天赋，即使苦练多年也可能无法如愿。"
+      },
+      {
+        "id": 12,
+        "paragraph": 3,
+        "english": "This can lead to feelings of frustration, inadequacy, and even mental health issues when their efforts do not yield the desired results.",
+        "chinese": "当努力没有换来期望的结果时，这可能会让他们感到沮丧、自卑，甚至引发心理健康问题。"
+      },
+      {
+        "id": 13,
+        "paragraph": 4,
+        "english": "Additionally, this mindset can place excessive pressure on children to succeed.",
+        "chinese": "此外，这种心态还可能让孩子承受过大的成功压力。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "Parents and teachers who emphasize the importance of hard work may unintentionally make children feel that failure is unacceptable.",
+        "chinese": "强调努力重要性的家长和老师，可能会无意中让孩子觉得失败是不可接受的。"
+      },
+      {
+        "id": 15,
+        "paragraph": 4,
+        "english": "This can result in stress, anxiety, and a fear of taking risks, as children may become overly focused on achieving perfection rather than enjoying the process of learning and growing.",
+        "chinese": "这会导致压力、焦虑和不敢冒险，因为孩子们可能会过度执着于追求完美，而不是享受学习和成长的过程。"
+      },
+      {
+        "id": 16,
+        "paragraph": 5,
+        "english": "In conclusion, telling children that they can achieve anything through hard work has both advantages and disadvantages.",
+        "chinese": "总而言之，告诉孩子只要努力就能做成任何事，既有好处也有坏处。"
+      },
+      {
+        "id": 17,
+        "paragraph": 5,
+        "english": "While it can inspire determination and resilience, it may also create unrealistic expectations and unnecessary pressure.",
+        "chinese": "它虽然能激发决心和韧性，但也可能造成不切实际的期望和不必要的压力。"
+      },
+      {
+        "id": 18,
+        "paragraph": 5,
+        "english": "Therefore, it is important to balance this message with an understanding of individual limitations and the value of enjoying the journey toward personal growth.",
+        "chinese": "因此，在传递这种观念的同时，也要让孩子认识到自身的局限，懂得享受个人成长的过程，这一点很重要。"
+      }
+    ]
+  },
+  {
+    "id": "education-cause-and-solution",
+    "number": 9,
+    "topic": "Education",
+    "type": "Cause and Solution",
+    "source": "IDP",
+    "question": "Children are facing more pressures from academic, social and commercial sources. What are the causes of these pressures and what measures should be taken to reduce them?",
+    "paragraphSizes": [
+      3,
+      5,
+      3,
+      5,
+      2
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "Modern children are increasingly experiencing pressure from various sources, including academics, social expectations, and commercial influences.",
+        "chinese": "如今的孩子正承受着越来越大的压力，这些压力来自学业、社会期望和商业影响等各个方面。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "These pressures are primarily caused by societal competition, peer influence, and targeted advertising.",
+        "chinese": "这些压力主要来自社会竞争、同伴影响和针对性广告。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "However, steps can be taken to alleviate these burdens and promote a healthier environment for children.",
+        "chinese": "不过，我们可以采取措施减轻这些负担，为孩子营造更健康的环境。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "One major cause of academic pressure is the growing emphasis on competition in education.",
+        "chinese": "学业压力的一个主要原因，是教育领域越来越强调竞争。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "Parents and schools often push children to excel in exams, participate in extracurricular activities, and secure admission to prestigious institutions.",
+        "chinese": "家长和学校常常逼迫孩子在考试中名列前茅、参加课外活动，并考取名校。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "This creates a high-stress environment where children feel that their self-worth depends on their achievements.",
+        "chinese": "这就营造出一种高压环境，让孩子觉得自身的价值取决于自己的成就。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "Similarly, social pressures arise from the influence of peers and social media.",
+        "chinese": "同样，社会压力来自同伴和社交媒体的影响。"
+      },
+      {
+        "id": 8,
+        "paragraph": 2,
+        "english": "Children often compare themselves to others, striving to meet unrealistic standards of popularity, appearance, or success.",
+        "chinese": "孩子们常常拿自己和别人比较，努力去达到在人气、外貌或成功方面不切实际的标准。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "Commercial pressures further exacerbate the problem.",
+        "chinese": "商业压力则让问题雪上加霜。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "Companies target children with advertisements for the latest toys, gadgets, and fashion trends, making them feel inadequate if they cannot afford these products.",
+        "chinese": "商家针对孩子投放广告，推销最新的玩具、电子产品和时尚潮流，让买不起这些商品的孩子感到自卑。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "For example, many children face bullying or exclusion if they do not own the latest smartphone or branded clothing, which can harm their self-esteem and mental health.",
+        "chinese": "例如，许多孩子因为没有最新款的智能手机或名牌服装而受到欺负或排挤，这会伤害他们的自尊和心理健康。"
+      },
+      {
+        "id": 12,
+        "paragraph": 4,
+        "english": "To address these issues, parents, schools, and governments must work together.",
+        "chinese": "要解决这些问题，家长、学校和政府必须共同努力。"
+      },
+      {
+        "id": 13,
+        "paragraph": 4,
+        "english": "Parents should focus on supporting their children’s individual strengths and encouraging a healthy balance between academics and leisure.",
+        "chinese": "家长应当注重支持孩子的个人特长，鼓励他们在学业和休闲之间保持健康的平衡。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "Schools can reduce academic pressure by adopting more flexible curriculums and emphasizing holistic development rather than test scores.",
+        "chinese": "学校可以采用更灵活的课程设置，强调全面发展而不是考试分数，以此减轻学业压力。"
+      },
+      {
+        "id": 15,
+        "paragraph": 4,
+        "english": "Governments should regulate advertising aimed at children to limit the influence of commercial pressures.",
+        "chinese": "政府应当规范针对儿童的广告，限制商业压力的影响。"
+      },
+      {
+        "id": 16,
+        "paragraph": 4,
+        "english": "For instance, banning ads for luxury products during children’s TV programs could help reduce materialistic expectations.",
+        "chinese": "例如，禁止在儿童电视节目期间播放奢侈品广告，有助于减少孩子对物质的过高期待。"
+      },
+      {
+        "id": 17,
+        "paragraph": 5,
+        "english": "In conclusion, the pressures children face today stem from academic competition, social comparisons, and commercial influences.",
+        "chinese": "总而言之，今天的孩子所面临的压力，来自学业竞争、社会攀比和商业影响。"
+      },
+      {
+        "id": 18,
+        "paragraph": 5,
+        "english": "By promoting supportive parenting, reforming education systems, and regulating advertising, these pressures can be significantly reduced, allowing children to grow up in a healthier and more balanced environment.",
+        "chinese": "通过家长多支持孩子、改革教育体制、规范广告行为，这些压力可以得到显著缓解，让孩子们在更健康、更平衡的环境中成长。"
+      }
+    ]
+  },
+  {
+    "id": "education-multi-part",
+    "number": 10,
+    "topic": "Education",
+    "type": "Multi-part",
+    "source": "",
+    "question": "Why are some people who leave school early more successful compared with those who complete their studies. Provide reasons why they are more successful and what are the requirements for success?",
+    "paragraphSizes": [
+      3,
+      4,
+      3,
+      4,
+      3
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "While formal education is often seen as a pathway to success, there are notable examples of individuals who leave school early and achieve remarkable success.",
+        "chinese": "虽然正规教育常被视为通往成功的道路，但也有不少早早离校却取得非凡成就的突出例子。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "This phenomenon can be attributed to factors such as entrepreneurial spirit, practical skills, and unique opportunities.",
+        "chinese": "这种现象可以归因于创业精神、实践技能和独特机遇等因素。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "However, success for early school leavers often depends on specific requirements, including determination, adaptability, and access to resources.",
+        "chinese": "然而，早早离校的人能否成功，往往取决于一些特定条件，包括决心、适应能力以及能否获得资源。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "One reason why some early school leavers become more successful is their entrepreneurial mindset.",
+        "chinese": "一些早早离校的人之所以更成功，原因之一是他们拥有创业者的心态。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "Many individuals who leave school early are driven by a strong passion or vision that motivates them to start their own businesses or pursue unconventional paths.",
+        "chinese": "许多早早离校的人受到强烈的热情或愿景的驱动，这促使他们创办自己的企业，或走与众不同的道路。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "For example, successful entrepreneurs like Richard Branson and Steve Jobs left formal education to focus on their innovative ideas, which eventually led to groundbreaking achievements.",
+        "chinese": "例如，理查德·布兰森和史蒂夫·乔布斯这样的成功企业家离开了正规教育，专注于自己的创新想法，最终取得了开创性的成就。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "This drive to take risks and think outside the box often distinguishes them from those who follow traditional academic routes.",
+        "chinese": "这种敢于冒险、跳出常规思考的劲头，往往让他们有别于那些走传统学术路线的人。"
+      },
+      {
+        "id": 8,
+        "paragraph": 3,
+        "english": "Another factor is the ability to develop practical skills and gain real-world experience at an earlier stage.",
+        "chinese": "另一个因素是，他们能够更早培养实践技能、积累实际经验。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "Early school leavers often enter the workforce sooner, allowing them to build hands-on expertise, develop networks, and understand industry dynamics.",
+        "chinese": "早早离校的人往往更早进入职场，这让他们得以积累实操经验、建立人脉，并了解行业动态。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "For instance, someone who starts working in a trade or creative field may gain years of experience by the time their peers graduate, giving them a competitive edge in their profession.",
+        "chinese": "例如，一个早早进入技工行业或创意领域工作的人，等到同龄人毕业时，可能已经积累了多年的经验，从而在自己的职业中占据竞争优势。"
+      },
+      {
+        "id": 11,
+        "paragraph": 4,
+        "english": "However, success for early school leavers is not guaranteed and requires certain key attributes.",
+        "chinese": "然而，早早离校的人并非注定成功，成功还需要具备某些关键素质。"
+      },
+      {
+        "id": 12,
+        "paragraph": 4,
+        "english": "Determination and hard work are essential, as these individuals often face challenges such as societal judgment and limited qualifications.",
+        "chinese": "决心和勤奋必不可少，因为这些人常常要面对社会的偏见和学历有限等挑战。"
+      },
+      {
+        "id": 13,
+        "paragraph": 4,
+        "english": "Adaptability is another critical factor, as they must continuously learn and evolve to stay relevant in their chosen fields.",
+        "chinese": "适应能力是另一个关键因素，因为他们必须不断学习、不断进步，才能在自己选择的领域里保持竞争力。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "Additionally, access to resources, such as mentorship, financial support, or professional training, can significantly enhance their chances of success.",
+        "chinese": "此外，能否获得导师指导、经济支持或职业培训等资源，也会大大提高他们成功的几率。"
+      },
+      {
+        "id": 15,
+        "paragraph": 5,
+        "english": "In conclusion, some people who leave school early achieve greater success than those who complete their studies due to their entrepreneurial spirit, practical experience, and unique opportunities.",
+        "chinese": "总而言之，一些早早离校的人之所以比完成学业的人更成功，是因为他们的创业精神、实践经验和独特机遇。"
+      },
+      {
+        "id": 16,
+        "paragraph": 5,
+        "english": "However, their success depends on qualities such as determination, adaptability, and access to resources.",
+        "chinese": "然而，他们的成功取决于决心、适应能力和能否获得资源等因素。"
+      },
+      {
+        "id": 17,
+        "paragraph": 5,
+        "english": "This highlights that while formal education is valuable, alternative paths to success are also viable for those with the right mindset and support.",
+        "chinese": "这说明，正规教育虽然很有价值，但对于那些心态正确、又有支持的人来说，其他通往成功的道路同样行得通。"
+      }
+    ]
+  },
+  {
+    "id": "government-spending-opinion",
+    "number": 11,
+    "topic": "Government Spending",
+    "type": "Opinion",
+    "source": "IDP",
+    "question": "In Britain, when someone gets old they often go to live in a home with other old people where there are nurses to look after them. Sometimes the government has to pay for this care. Who do you think should pay for this care, the government or the family?",
+    "paragraphSizes": [
+      3,
+      4,
+      4,
+      3,
+      2
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "In Britain, when someone gets old, they often go to live in a care home where nurses provide assistance with their daily needs.",
+        "chinese": "在英国，人上了年纪以后，往往会住进养老院，那里有护士帮忙照顾他们的日常生活。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "While some believe that the government should pay for this care, others argue that the responsibility lies with the family.",
+        "chinese": "有人认为这笔养老费用应该由政府来出，也有人认为责任在家庭。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "In my opinion, the government should bear the primary financial responsibility for elderly care, as it ensures fairness and accessibility for all citizens, regardless of their personal financial situation.",
+        "chinese": "在我看来，政府应当承担养老的主要经济责任，因为这样才能保证公平，让所有公民不管个人经济状况如何，都能享受到养老服务。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "Firstly, elderly care is a societal issue, and governments have a duty to provide support to all citizens, especially the vulnerable.",
+        "chinese": "首先，养老是一个社会问题，政府有责任为所有公民提供支持，尤其是弱势群体。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "Many elderly people may not have families who can afford the high costs of care homes, and relying solely on families could lead to inequality.",
+        "chinese": "许多老人家里可能负担不起养老院的高昂费用，如果完全靠家庭来承担，就会造成不公平。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "For instance, individuals from low-income families may not receive the same quality of care as those from wealthier backgrounds.",
+        "chinese": "比如说，低收入家庭的老人，可能得不到和富裕家庭老人同等质量的照料。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "By funding elderly care, the government ensures that everyone has access to the necessary services, regardless of their economic status.",
+        "chinese": "政府出资支持养老，就能保证每个人不论经济条件如何，都能获得所需的服务。"
+      },
+      {
+        "id": 8,
+        "paragraph": 3,
+        "english": "Secondly, families often face significant emotional, physical, and financial burdens when taking care of elderly relatives.",
+        "chinese": "其次，照顾年迈的亲人，往往会给家庭带来沉重的情感、体力和经济负担。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "While it is important for families to provide emotional support, expecting them to shoulder the full cost of care is unrealistic.",
+        "chinese": "家人提供情感上的支持固然重要，但指望他们承担全部养老费用并不现实。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "Many families already struggle with their own financial responsibilities, such as raising children or paying for housing.",
+        "chinese": "许多家庭本身就有自己的经济压力，比如养孩子、付房贷。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "If the government steps in to cover the costs, families can focus on supporting their loved ones emotionally without being overwhelmed by financial stress.",
+        "chinese": "如果政府出面承担费用，家人就可以专心在情感上陪伴亲人，而不会被经济压力压得喘不过气来。"
+      },
+      {
+        "id": 12,
+        "paragraph": 4,
+        "english": "However, it is also reasonable to expect families to contribute partially to the cost of care, especially if they are financially capable.",
+        "chinese": "不过，让家庭也分担一部分养老费用是合理的，尤其是在他们经济条件允许的情况下。"
+      },
+      {
+        "id": 13,
+        "paragraph": 4,
+        "english": "A shared responsibility model, where the government covers the majority of the expenses and families contribute according to their means, could be a fair compromise.",
+        "chinese": "一种共同分担的模式——政府承担大部分费用，家庭量力而行——可能是一个公平的折中方案。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "This would ensure that the elderly receive quality care while reducing the financial strain on public funds.",
+        "chinese": "这样既能让老人得到优质的照料，又能减轻公共资金的压力。"
+      },
+      {
+        "id": 15,
+        "paragraph": 5,
+        "english": "In conclusion, I believe the government should take primary responsibility for funding elderly care, as it promotes equality and relieves families of excessive financial burdens.",
+        "chinese": "总而言之，我认为政府应该承担养老资金的主要责任，因为这能促进公平，也能让家庭免于过重的经济负担。"
+      },
+      {
+        "id": 16,
+        "paragraph": 5,
+        "english": "However, families should also contribute to the extent they are able, creating a balanced approach to supporting the elderly in society.",
+        "chinese": "但家庭也应该在力所能及的范围内出一部分钱，让全社会形成一种更平衡的养老方式。"
+      }
+    ]
+  },
+  {
+    "id": "government-spending-discussion",
+    "number": 12,
+    "topic": "Government Spending",
+    "type": "Discussion",
+    "source": "C12",
+    "question": "In a number of countries, some people think it is necessary to spend large sums of money on constructing new railway lines for very fast trains between cities. Others believe the money should be spent on improving existing public transport. Discuss both these views and give your own opinion.",
+    "paragraphSizes": [
+      2,
+      4,
+      4,
+      3,
+      2
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "In many countries, there is a debate about whether large sums of money should be spent on constructing new high-speed railway lines between cities or on improving existing public transport systems.",
+        "chinese": "在许多国家，人们一直在争论：大笔资金究竟应该用来修建城市之间新的高铁线路，还是用来改善现有的公共交通系统。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "Both perspectives have valid arguments, but I believe a balanced approach that prioritizes the needs of the population is essential.",
+        "chinese": "两种观点都有道理，但我认为关键在于采取一种平衡的做法，优先满足民众的需求。"
+      },
+      {
+        "id": 3,
+        "paragraph": 2,
+        "english": "Those who advocate for building high-speed railway lines argue that these projects can revolutionize transportation by significantly reducing travel times between cities.",
+        "chinese": "支持修建高铁的人认为，这类项目能大幅缩短城市之间的通行时间，从而彻底改变交通面貌。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "High-speed trains can boost economic growth by improving connectivity, making it easier for people to commute for work or leisure.",
+        "chinese": "高铁能加强城市之间的联系，让人们上班通勤或休闲出行都更加方便，进而推动经济增长。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "For instance, countries like Japan and France have seen tremendous benefits from their bullet train systems, which have enhanced regional development and reduced reliance on cars and planes.",
+        "chinese": "像日本和法国这样的国家，就从自己的高铁系统中获益巨大，既促进了区域发展，又减少了人们对汽车和飞机的依赖。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "Furthermore, high-speed railways are environmentally friendly compared to air travel, as they produce fewer carbon emissions per passenger.",
+        "chinese": "此外，和坐飞机相比，高铁更加环保，因为每位乘客产生的碳排放更少。"
+      },
+      {
+        "id": 7,
+        "paragraph": 3,
+        "english": "On the other hand, critics argue that improving existing public transport systems should take precedence.",
+        "chinese": "另一方面，批评者认为，应该优先改善现有的公共交通系统。"
+      },
+      {
+        "id": 8,
+        "paragraph": 3,
+        "english": "In many countries, local buses, trains, and metro systems are outdated, overcrowded, and unreliable.",
+        "chinese": "在许多国家，当地的公交、火车和地铁系统已经设备陈旧、拥挤不堪，而且不够可靠。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "Investing in these systems would have an immediate positive impact on millions of daily commuters, reducing traffic congestion and improving the quality of life in urban areas.",
+        "chinese": "投资改善这些系统，能立刻给每天通勤的数百万人带来实实在在的好处，缓解交通拥堵，提升城市地区的生活质量。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "Additionally, upgrading existing infrastructure is often more cost-effective than building entirely new railway lines, which can take years to complete and may only benefit specific regions.",
+        "chinese": "而且，升级现有设施往往比从零修建全新的铁路更划算——新线路可能要花好几年才能建成，而且可能只惠及某些特定地区。"
+      },
+      {
+        "id": 11,
+        "paragraph": 4,
+        "english": "In my opinion, while high-speed railways offer long-term benefits, governments should prioritize improving existing public transport systems first.",
+        "chinese": "在我看来，高铁虽然能带来长远利益，但政府还是应该优先改善现有的公共交通系统。"
+      },
+      {
+        "id": 12,
+        "paragraph": 4,
+        "english": "The majority of people rely on local transport for their daily needs, and addressing these issues would have a more immediate and widespread impact.",
+        "chinese": "大多数人日常出行都依赖本地交通，解决这些问题会带来更直接、更广泛的影响。"
+      },
+      {
+        "id": 13,
+        "paragraph": 4,
+        "english": "However, where feasible, high-speed rail projects can be pursued in parallel, especially in regions where they are likely to bring significant economic and environmental benefits.",
+        "chinese": "不过，在条件可行的地方，高铁项目也可以同步推进，尤其是在那些很可能带来显著经济和环境效益的地区。"
+      },
+      {
+        "id": 14,
+        "paragraph": 5,
+        "english": "In conclusion, both high-speed railways and improved public transport systems have their merits.",
+        "chinese": "总而言之，高铁和改善公共交通系统各有各的优点。"
+      },
+      {
+        "id": 15,
+        "paragraph": 5,
+        "english": "Governments should focus on upgrading existing infrastructure while carefully considering the potential benefits of high-speed rail projects in certain areas.",
+        "chinese": "政府应把重点放在升级现有设施上，同时审慎评估高铁项目在某些地区的潜在收益。"
+      }
+    ]
+  },
+  {
+    "id": "government-spending-advantages-vs-disadvantages-or-positive-vs-negative",
+    "number": 13,
+    "topic": "Government Spending",
+    "type": "Advantages vs Disadvantages or Positive vs Negative",
+    "source": "",
+    "question": "Government spending on infrastructure projects often brings economic benefits to a region. However, these projects can also have negative consequences for certain groups, such as displacement of local communities or environmental damage. Discuss the potential benefits and drawbacks of infrastructure spending for both the general public and specific affected groups. Do you think the trade-offs are justified in most cases?",
+    "paragraphSizes": [
+      2,
+      4,
+      5,
+      3,
+      2
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "Government spending on infrastructure projects often brings economic benefits to a region, but it can also have negative consequences for certain groups, such as the displacement of local communities or environmental damage.",
+        "chinese": "政府在基础设施项目上的投入，往往能给一个地区带来经济收益，但也可能给某些群体带来负面影响，比如迫使当地社区搬迁，或者破坏环境。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "While the advantages of infrastructure spending are significant, the drawbacks must be carefully managed to ensure that the trade-offs are justified.",
+        "chinese": "基础设施投资的好处虽然很大，但这些弊端也必须妥善处理，才能确保这样的取舍是值得的。"
+      },
+      {
+        "id": 3,
+        "paragraph": 2,
+        "english": "One major benefit of infrastructure projects is their ability to stimulate economic growth.",
+        "chinese": "基础设施项目的一大好处，是能够刺激经济增长。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "Large-scale investments in roads, bridges, and railways create jobs during the construction phase and improve connectivity, which can attract businesses and boost trade.",
+        "chinese": "对道路、桥梁和铁路的大规模投资，能在建设期间创造就业岗位，还能改善交通连接，从而吸引企业、促进贸易。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "For example, the construction of highways often leads to the development of nearby towns, creating opportunities for local businesses and improving access to essential services.",
+        "chinese": "例如，修建高速公路往往能带动附近城镇的发展，为本地企业创造机会，也让人们更方便地获得基本服务。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "Additionally, improved infrastructure can enhance the quality of life for the general public by reducing travel times and making transportation more efficient.",
+        "chinese": "此外，改善基础设施还能缩短出行时间、提高交通效率，从而提升公众的生活质量。"
+      },
+      {
+        "id": 7,
+        "paragraph": 3,
+        "english": "However, these projects often come at a cost.",
+        "chinese": "然而，这些项目往往是要付出代价的。"
+      },
+      {
+        "id": 8,
+        "paragraph": 3,
+        "english": "One significant drawback is the displacement of local communities.",
+        "chinese": "一个很大的弊端，就是当地社区被迫搬迁。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "When governments acquire land for infrastructure projects, residents may be forced to relocate, disrupting their lives and livelihoods.",
+        "chinese": "政府为基础设施项目征地时，居民可能被迫搬走，生活和生计都会被打乱。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "For instance, the construction of dams has displaced millions of people worldwide, leaving them without adequate compensation or support.",
+        "chinese": "例如，世界各地修建水坝已经迫使数百万人迁移，而他们往往得不到足够的补偿或支持。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "Furthermore, infrastructure projects can cause environmental damage, such as deforestation, habitat destruction, and pollution, which can have long-term consequences for ecosystems and biodiversity.",
+        "chinese": "此外，基础设施项目还可能破坏环境，比如造成森林砍伐、栖息地破坏和污染，给生态系统和生物多样性带来长期后果。"
+      },
+      {
+        "id": 12,
+        "paragraph": 4,
+        "english": "In my opinion, the trade-offs associated with infrastructure spending are justified only if governments take measures to minimize the negative impacts.",
+        "chinese": "在我看来，只有当政府采取措施把负面影响降到最低时，基础设施投资带来的这种取舍才算合理。"
+      },
+      {
+        "id": 13,
+        "paragraph": 4,
+        "english": "For example, affected communities should be adequately compensated and provided with alternative housing and employment opportunities.",
+        "chinese": "比如，应该给受影响的社区充分的补偿，并为他们提供替代住房和就业机会。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "Additionally, environmental assessments should be conducted to ensure that projects are sustainable and minimize harm to the environment.",
+        "chinese": "此外，还应开展环境评估，确保项目是可持续的，并把对环境的危害降到最低。"
+      },
+      {
+        "id": 15,
+        "paragraph": 5,
+        "english": "In conclusion, while infrastructure projects bring significant economic and social benefits, their negative consequences must be addressed to make the trade-offs worthwhile.",
+        "chinese": "总而言之，基础设施项目虽然带来显著的经济和社会效益，但必须妥善处理其负面影响，这种取舍才算值得。"
+      },
+      {
+        "id": 16,
+        "paragraph": 5,
+        "english": "Governments should adopt policies that prioritize the well-being of affected communities and the environment while pursuing development goals.",
+        "chinese": "政府在追求发展目标的同时，应该出台政策，把受影响社区和环境的福祉放在首位。"
+      }
+    ]
+  },
+  {
+    "id": "government-spending-cause-and-solution",
+    "number": 14,
+    "topic": "Government Spending",
+    "type": "Cause and Solution",
+    "source": "",
+    "question": "What are the causes of the government spending more money on military purposes than on social programs? Suggest solutions to address these causes and improve the allocation of government funds.",
+    "paragraphSizes": [
+      3,
+      4,
+      3,
+      4,
+      2
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "Governments in many countries allocate more money to military purposes than to social programs.",
+        "chinese": "许多国家的政府拨给军事用途的资金，比拨给社会项目的还要多。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "This imbalance is often caused by geopolitical tensions, national security concerns, and the influence of the defense industry.",
+        "chinese": "这种失衡往往是由地缘政治紧张局势、国家安全顾虑以及军工行业的影响造成的。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "To address this issue and improve the allocation of government funds, several solutions can be implemented.",
+        "chinese": "要解决这个问题、改善政府资金的分配，可以采取以下几个办法。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "One of the primary causes of excessive military spending is the perception of external threats.",
+        "chinese": "军费开支过高的一个主要原因，是人们感受到来自外部的威胁。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "Countries often feel the need to maintain a strong military to deter potential aggression from rival nations.",
+        "chinese": "各国往往觉得必须保持强大的军力，以威慑敌对国家可能发起的侵略。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "For example, ongoing conflicts or territorial disputes can lead to increased defense budgets, as governments prioritize security over social welfare.",
+        "chinese": "例如，持续的冲突或领土争端会导致国防预算增加，因为政府把安全放在了社会福利之上。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "Additionally, the defense industry exerts significant influence on policymakers, lobbying for higher military spending to secure contracts and profits.",
+        "chinese": "此外，军工行业对决策者施加着巨大影响，通过游说争取更高的军费，以拿到合同、赚取利润。"
+      },
+      {
+        "id": 8,
+        "paragraph": 3,
+        "english": "Another reason is the desire to project power on a global scale.",
+        "chinese": "另一个原因，是想在全球范围内展示自己的实力。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "Many governments view military strength as a symbol of national prestige, leading them to invest heavily in advanced weaponry and technology.",
+        "chinese": "许多政府把军事实力视为国家威望的象征，因此在先进武器和技术上投入巨资。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "However, this focus on military dominance often comes at the expense of social programs, such as healthcare and education, which are essential for improving citizens' quality of life.",
+        "chinese": "然而，这种对军事优势的追求，往往是以牺牲社会项目为代价的，比如医疗和教育——而这些恰恰是提高公民生活质量所必需的。"
+      },
+      {
+        "id": 11,
+        "paragraph": 4,
+        "english": "To address these causes, governments should prioritize diplomacy and conflict resolution to reduce the need for excessive military spending.",
+        "chinese": "要解决这些根源，政府应把外交和化解冲突放在首位，减少对高额军费的需求。"
+      },
+      {
+        "id": 12,
+        "paragraph": 4,
+        "english": "International cooperation and peace agreements can help de-escalate tensions and allow countries to reallocate funds to social programs.",
+        "chinese": "国际合作与和平协议有助于缓和紧张局势，让各国得以把资金重新投向社会项目。"
+      },
+      {
+        "id": 13,
+        "paragraph": 4,
+        "english": "Additionally, greater transparency and accountability in defense budgets can limit the influence of the military-industrial complex.",
+        "chinese": "此外，提高国防预算的透明度和问责力度，可以限制军工复合体的影响。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "For example, independent audits and public oversight can ensure that military spending is justified and not excessive.",
+        "chinese": "例如，独立审计和公众监督可以确保军费开支合理、不至于过度。"
+      },
+      {
+        "id": 15,
+        "paragraph": 5,
+        "english": "In conclusion, the imbalance in government spending between military and social programs is driven by security concerns and the influence of the defense industry.",
+        "chinese": "总而言之，政府开支在军事和社会项目之间的失衡，是由安全顾虑和军工行业的影响造成的。"
+      },
+      {
+        "id": 16,
+        "paragraph": 5,
+        "english": "By promoting diplomacy and increasing transparency, governments can allocate resources more effectively to address the needs of their citizens.",
+        "chinese": "通过推动外交、提高透明度，政府可以更有效地分配资源，满足公民的需求。"
+      }
+    ]
+  },
+  {
+    "id": "government-spending-multi-part",
+    "number": 15,
+    "topic": "Government Spending",
+    "type": "Multi-part",
+    "source": "",
+    "question": "An increasing number of developing countries are expanding their tourist industry. Why do you think it is the case? Do you think it is a positive or negative development?",
+    "paragraphSizes": [
+      3,
+      4,
+      4,
+      3,
+      2
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "An increasing number of developing countries are expanding their tourist industries.",
+        "chinese": "越来越多的发展中国家正在大力发展旅游业。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "This trend is driven by the potential for economic growth, job creation, and increased foreign exchange earnings.",
+        "chinese": "推动这一趋势的，是旅游业有望带来经济增长、创造就业并增加外汇收入。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "While this development has many benefits, it also comes with challenges that must be addressed.",
+        "chinese": "这种发展虽然好处很多，但也伴随着必须加以应对的挑战。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "One reason for the expansion of tourism is its ability to generate significant economic benefits.",
+        "chinese": "旅游业扩张的一个原因，是它能带来可观的经济收益。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "Tourism attracts foreign visitors who spend money on accommodation, food, and entertainment, boosting local businesses and government revenues.",
+        "chinese": "旅游能吸引外国游客前来，他们在住宿、餐饮和娱乐上消费，既兴旺了本地商家，也增加了政府收入。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "For developing countries, this influx of foreign exchange can be used to fund infrastructure projects and social programs.",
+        "chinese": "对发展中国家来说，这些流入的外汇可以用来资助基础设施项目和社会项目。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "Additionally, tourism creates jobs in various sectors, such as hospitality, transportation, and retail, reducing unemployment and improving living standards.",
+        "chinese": "此外，旅游业还能在酒店、交通、零售等多个行业创造就业岗位，降低失业率，提高生活水平。"
+      },
+      {
+        "id": 8,
+        "paragraph": 3,
+        "english": "However, the rapid growth of tourism can also have negative consequences.",
+        "chinese": "然而，旅游业的快速增长也可能带来负面后果。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "One major issue is the environmental impact, as increased tourist activity can lead to pollution, deforestation, and the depletion of natural resources.",
+        "chinese": "一个主要问题是对环境的影响：游客活动增多会导致污染、森林砍伐和自然资源的耗竭。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "For example, popular destinations often face problems such as overcrowding and waste management, which can harm ecosystems and reduce the quality of life for local residents.",
+        "chinese": "例如，热门旅游目的地常常面临过度拥挤、垃圾处理困难等问题，既损害生态系统，也降低当地居民的生活质量。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "Furthermore, over-reliance on tourism can make economies vulnerable to external factors, such as global recessions or natural disasters, which can drastically reduce tourist numbers.",
+        "chinese": "此外，过度依赖旅游业会让经济容易受到外部因素的冲击，比如全球经济衰退或自然灾害，这些都可能让游客数量大幅减少。"
+      },
+      {
+        "id": 12,
+        "paragraph": 4,
+        "english": "In my opinion, the expansion of the tourist industry is a positive development if managed sustainably.",
+        "chinese": "在我看来，只要以可持续的方式加以管理，发展旅游业就是一件好事。"
+      },
+      {
+        "id": 13,
+        "paragraph": 4,
+        "english": "Governments should implement policies to minimize the environmental impact of tourism, such as promoting eco-friendly practices and limiting visitor numbers in sensitive areas.",
+        "chinese": "政府应出台政策，把旅游业对环境的影响降到最低，比如推广环保做法、限制生态敏感地区的游客数量。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "Additionally, diversifying the economy can reduce dependence on tourism and ensure long-term stability.",
+        "chinese": "此外，实现经济多元化可以降低对旅游业的依赖，保证长期稳定。"
+      },
+      {
+        "id": 15,
+        "paragraph": 5,
+        "english": "In conclusion, the growth of tourism in developing countries offers significant economic opportunities but also poses challenges.",
+        "chinese": "总而言之，发展中国家旅游业的增长带来了巨大的经济机遇，但也带来了挑战。"
+      },
+      {
+        "id": 16,
+        "paragraph": 5,
+        "english": "By adopting sustainable practices and diversifying their economies, these countries can maximize the benefits of tourism while minimizing its drawbacks.",
+        "chinese": "通过采取可持续的做法并实现经济多元化，这些国家可以把旅游业的好处发挥到最大，同时把弊端降到最低。"
+      }
+    ]
+  },
+  {
+    "id": "technology-opinion",
+    "number": 16,
+    "topic": "Technology",
+    "type": "Opinion",
+    "source": "C18",
+    "question": "The most important aim of science should be to improve people's lives. To what extent do you agree or disagree with this statement?",
+    "paragraphSizes": [
+      3,
+      5,
+      5,
+      5,
+      3
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "Science is one of the most important tools for understanding the world and solving problems.",
+        "chinese": "科学是我们认识世界、解决问题最重要的工具之一。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "While some people think science should focus on discovering new knowledge, I believe its main goal should be to improve people’s lives.",
+        "chinese": "有人认为科学应该专注于探索新知识，但我认为科学的主要目标应该是改善人们的生活。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "This is because science can help us stay healthy, make life easier, and solve global problems like climate change.",
+        "chinese": "这是因为科学能帮助我们保持健康、让生活更便利，还能解决气候变化这样的全球性问题。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "Firstly, science improves people’s health.",
+        "chinese": "首先，科学能改善人们的健康。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "Many diseases that were once deadly can now be treated because of scientific research.",
+        "chinese": "许多曾经致命的疾病，因为有了科学研究，现在都可以治疗了。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "For example, vaccines and medicines have saved millions of lives.",
+        "chinese": "比如，疫苗和药物已经挽救了数百万人的生命。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "The COVID-19 vaccine is a good example of how science can quickly respond to a crisis and protect people.",
+        "chinese": "新冠疫苗就是一个很好的例子，说明科学能迅速应对危机、保护人们。"
+      },
+      {
+        "id": 8,
+        "paragraph": 2,
+        "english": "Without science, we would still suffer from illnesses that are now easily preventable.",
+        "chinese": "如果没有科学，那些现在很容易预防的疾病还会一直折磨着我们。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "Secondly, science makes life easier and more comfortable.",
+        "chinese": "其次，科学让生活更轻松、更舒适。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "Many technologies that we use every day, like cars, phones, and the internet, are the result of scientific discoveries.",
+        "chinese": "我们日常使用的许多技术，比如汽车、手机和互联网，都是科学发现的成果。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "These inventions save us time and help us connect with others.",
+        "chinese": "这些发明为我们节省了时间，也帮助我们与他人保持联系。"
+      },
+      {
+        "id": 12,
+        "paragraph": 3,
+        "english": "For example, smartphones allow people to work, learn, and communicate from anywhere in the world.",
+        "chinese": "比如，智能手机让人们可以在世界任何地方工作、学习和交流。"
+      },
+      {
+        "id": 13,
+        "paragraph": 3,
+        "english": "Science also helps us create machines that reduce hard physical work, making life more convenient.",
+        "chinese": "科学还帮助我们制造出减轻繁重体力劳动的机器，让生活更加方便。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "Finally, science can solve global problems that affect everyone.",
+        "chinese": "最后，科学能解决影响每个人的全球性问题。"
+      },
+      {
+        "id": 15,
+        "paragraph": 4,
+        "english": "Issues like climate change, pollution, and food shortages need scientific solutions.",
+        "chinese": "气候变化、环境污染和粮食短缺这类问题，都需要科学的解决方案。"
+      },
+      {
+        "id": 16,
+        "paragraph": 4,
+        "english": "For instance, renewable energy technologies, such as solar and wind power, are helping to reduce pollution and fight climate change.",
+        "chinese": "比如，太阳能和风能等可再生能源技术正在帮助减少污染、应对气候变化。"
+      },
+      {
+        "id": 17,
+        "paragraph": 4,
+        "english": "Similarly, scientists are finding ways to grow more food using fewer resources.",
+        "chinese": "同样，科学家们也在想办法用更少的资源种出更多的粮食。"
+      },
+      {
+        "id": 18,
+        "paragraph": 4,
+        "english": "By focusing on these problems, science can make the world a better place for future generations.",
+        "chinese": "专注于解决这些问题，科学就能为子孙后代创造一个更美好的世界。"
+      },
+      {
+        "id": 19,
+        "paragraph": 5,
+        "english": "In conclusion, I believe the main goal of science should be to improve people’s lives.",
+        "chinese": "总而言之，我认为科学的主要目标应该是改善人们的生活。"
+      },
+      {
+        "id": 20,
+        "paragraph": 5,
+        "english": "It helps us stay healthy, makes daily life easier, and solves global challenges.",
+        "chinese": "它帮助我们保持健康，让日常生活更便利，还能解决全球性的挑战。"
+      },
+      {
+        "id": 21,
+        "paragraph": 5,
+        "english": "While discovering new knowledge is important, the real value of science lies in how it benefits humanity.",
+        "chinese": "探索新知识固然重要，但科学真正的价值在于它如何造福人类。"
+      }
+    ]
+  },
+  {
+    "id": "technology-discussion",
+    "number": 17,
+    "topic": "Technology",
+    "type": "Discussion",
+    "source": "",
+    "question": "Some people believe that technology has made man more social and others think that it has made him less social. Discuss both views and give your opinion.",
+    "paragraphSizes": [
+      4,
+      5,
+      4,
+      4,
+      3
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "Technology has transformed the way humans interact, sparking a debate about whether it has made people more or less social.",
+        "chinese": "科技改变了人们相互交往的方式，也引发了一场争论：它到底让人变得更爱社交，还是更不爱社交。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "On one hand, some argue that technology has enhanced social connections by enabling communication across vast distances.",
+        "chinese": "一方面，有人认为科技让人们能够跨越遥远的距离进行交流，从而加强了社交联系。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "On the other hand, critics believe it has diminished meaningful face-to-face interactions, making people less social in the traditional sense.",
+        "chinese": "另一方面，批评者认为科技削弱了有意义的面对面交流，让人在传统意义上变得更不爱社交。"
+      },
+      {
+        "id": 4,
+        "paragraph": 1,
+        "english": "Both perspectives have merit and deserve careful consideration.",
+        "chinese": "这两种观点都有道理，值得认真考虑。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "Proponents of technology’s role in increasing sociability highlight its ability to connect people globally.",
+        "chinese": "支持科技让人更爱社交的一方强调，科技能把全世界的人联系起来。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "Social media platforms, messaging apps, and video conferencing tools allow individuals to maintain relationships despite physical separation.",
+        "chinese": "社交媒体平台、聊天应用和视频会议工具，让人们即使身处异地也能维系关系。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "For instance, families living in different countries can stay in touch through video calls, while friends can share updates and experiences instantly on platforms like Instagram or WhatsApp.",
+        "chinese": "比如，住在不同国家的家人可以通过视频通话保持联系，朋友们也可以在 Instagram 或 WhatsApp 这样的平台上即时分享动态和经历。"
+      },
+      {
+        "id": 8,
+        "paragraph": 2,
+        "english": "Additionally, technology has enabled people to form new relationships through online communities based on shared interests, hobbies, or causes.",
+        "chinese": "此外，科技还让人们能在网络社区里结识新朋友，因为大家有共同的兴趣、爱好或关注的事业。"
+      },
+      {
+        "id": 9,
+        "paragraph": 2,
+        "english": "These virtual connections can foster a sense of belonging and expand social networks beyond geographical limitations.",
+        "chinese": "这些虚拟的联系能带来归属感，还能让社交网络突破地域的限制。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "However, critics argue that technology has made people less social by reducing the quality of interactions.",
+        "chinese": "然而，批评者认为科技降低了交流的质量，让人变得更不爱社交。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "Many individuals now prioritize online communication over face-to-face conversations, leading to a decline in interpersonal skills such as empathy and active listening.",
+        "chinese": "如今许多人把网上交流看得比面对面交谈更重要，导致同理心和积极倾听等人际交往能力下降。"
+      },
+      {
+        "id": 12,
+        "paragraph": 3,
+        "english": "For example, it is common to see people engrossed in their smartphones during social gatherings, neglecting the opportunity for meaningful engagement with those around them.",
+        "chinese": "比如，在社交聚会上，常能看到人们只顾埋头玩手机，忽略了与身边人进行有意义交流的机会。"
+      },
+      {
+        "id": 13,
+        "paragraph": 3,
+        "english": "Furthermore, excessive use of technology can lead to isolation, as individuals may substitute real-life interactions with virtual ones, which lack the depth and emotional connection of in-person relationships.",
+        "chinese": "而且，过度使用科技还可能导致孤立，因为人们可能用虚拟交流代替现实交往，而虚拟交流缺乏面对面关系的那种深度和情感联结。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "In my opinion, technology has the potential to make people more social, but its impact depends on how it is used.",
+        "chinese": "在我看来，科技有潜力让人更爱社交，但它的影响取决于人们如何使用它。"
+      },
+      {
+        "id": 15,
+        "paragraph": 4,
+        "english": "When used responsibly, technology can enhance relationships and bridge communication gaps.",
+        "chinese": "如果合理使用，科技能增进感情、弥合沟通上的隔阂。"
+      },
+      {
+        "id": 16,
+        "paragraph": 4,
+        "english": "However, over-reliance on digital interactions at the expense of face-to-face connections can lead to a decline in social skills and meaningful relationships.",
+        "chinese": "然而，如果过度依赖数字交流而牺牲了面对面的联系，就会导致社交能力下降，有意义的人际关系也会减少。"
+      },
+      {
+        "id": 17,
+        "paragraph": 4,
+        "english": "Striking a balance between virtual and real-world interactions is essential to ensure that technology serves as a tool for fostering, rather than hindering, sociability.",
+        "chinese": "在虚拟交流和现实交往之间找到平衡至关重要，这样才能确保科技是促进社交的工具，而不是阻碍社交的因素。"
+      },
+      {
+        "id": 18,
+        "paragraph": 5,
+        "english": "In conclusion, technology has both increased and decreased social interactions, depending on the context.",
+        "chinese": "总之，科技究竟是增加还是减少了社交互动，要看具体的情况。"
+      },
+      {
+        "id": 19,
+        "paragraph": 5,
+        "english": "While it has made global communication easier and more accessible, it has also contributed to a decline in the quality of personal interactions.",
+        "chinese": "它一方面让全球交流变得更便捷、更容易，另一方面也降低了人际交往的质量。"
+      },
+      {
+        "id": 20,
+        "paragraph": 5,
+        "english": "To maximize its benefits, individuals must use technology in a way that complements, rather than replaces, real-life social connections.",
+        "chinese": "要最大限度地发挥科技的好处，人们就必须用它来补充而不是取代现实生活中的社交联系。"
+      }
+    ]
+  },
+  {
+    "id": "technology-advantages-vs-disadvantages-or-positive-vs-negative",
+    "number": 18,
+    "topic": "Technology",
+    "type": "Advantages vs Disadvantages or Positive vs Negative",
+    "source": "C16",
+    "question": "In the future all cars, buses and trucks will be driverless. The only people travelling inside these vehicles will be passengers. Do you think the advantages of driverless vehicles outweigh the disadvantages?",
+    "paragraphSizes": [
+      3,
+      4,
+      4,
+      3,
+      2
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "In the future, driverless vehicles will replace human drivers, leaving passengers to rely entirely on automated systems.",
+        "chinese": "未来，无人驾驶汽车将取代人类司机，乘客将完全依赖自动化系统。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "This development could bring significant advantages, such as improved safety and efficiency, but it also raises concerns about job losses and technological risks.",
+        "chinese": "这一变化可能带来很多好处，比如更安全、更高效，但同时也引发了对失业和技术风险的担忧。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "While there are challenges, I believe the advantages outweigh the disadvantages.",
+        "chinese": "尽管存在挑战，但我认为好处大于坏处。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "One key benefit of driverless vehicles is the potential to improve road safety.",
+        "chinese": "无人驾驶汽车的一个主要好处是有望提高道路安全。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "Human error, such as distractions or fatigue, is a leading cause of accidents.",
+        "chinese": "分心或疲劳等人为失误是造成交通事故的主要原因。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "Autonomous vehicles, equipped with advanced sensors and algorithms, can react to hazards more quickly and accurately than humans, reducing the likelihood of crashes.",
+        "chinese": "自动驾驶汽车配备了先进的传感器和算法，能比人更快、更准确地应对危险，从而减少事故发生的可能性。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "This could save countless lives and lower the costs associated with road accidents.",
+        "chinese": "这可以挽救无数生命，也能降低交通事故带来的经济损失。"
+      },
+      {
+        "id": 8,
+        "paragraph": 3,
+        "english": "Another advantage is the added convenience and efficiency driverless vehicles can offer.",
+        "chinese": "另一个好处是无人驾驶汽车能带来更大的便利和效率。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "Passengers will no longer need to focus on driving, allowing them to use their travel time productively or simply relax.",
+        "chinese": "乘客不再需要专心开车，可以高效利用路上的时间，或者干脆放松休息。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "Moreover, autonomous systems can optimize traffic flow, reducing congestion and travel times.",
+        "chinese": "此外，自动化系统可以优化交通流量，减少拥堵、缩短出行时间。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "Driverless trucks could also make goods transportation faster and cheaper, benefiting businesses and consumers.",
+        "chinese": "无人驾驶卡车还能让货物运输更快、更便宜，让企业和消费者都受益。"
+      },
+      {
+        "id": 12,
+        "paragraph": 4,
+        "english": "However, there are concerns about job losses, as millions of drivers in industries like trucking, taxis, and public transport may lose their livelihoods.",
+        "chinese": "然而，也有人担心失业问题，因为卡车、出租车和公共交通等行业的数百万司机可能会失去生计。"
+      },
+      {
+        "id": 13,
+        "paragraph": 4,
+        "english": "This could lead to economic and social challenges, especially for those who depend on driving as their primary income source.",
+        "chinese": "这可能带来经济和社会方面的挑战，尤其对那些以开车为主要收入来源的人来说更是如此。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "Additionally, reliance on technology raises risks, such as system failures or hacking, which could disrupt transportation and endanger lives.",
+        "chinese": "此外，依赖技术也会带来风险，比如系统故障或黑客攻击，这可能会扰乱交通、危及生命。"
+      },
+      {
+        "id": 15,
+        "paragraph": 5,
+        "english": "In conclusion, while driverless vehicles present challenges like unemployment and technological risks, their benefits in terms of safety, efficiency, and convenience are significant.",
+        "chinese": "总之，虽然无人驾驶汽车会带来失业和技术风险等挑战，但它在安全、效率和便利方面的好处是十分显著的。"
+      },
+      {
+        "id": 16,
+        "paragraph": 5,
+        "english": "With careful planning to address these drawbacks, such as retraining programs for affected workers and strict safety measures, the advantages of driverless vehicles can outweigh the disadvantages.",
+        "chinese": "只要认真规划来应对这些弊端，比如为受影响的工人提供再培训项目并制定严格的安全措施，无人驾驶汽车的好处就能大于坏处。"
+      }
+    ]
+  },
+  {
+    "id": "technology-cause-and-solution",
+    "number": 19,
+    "topic": "Technology",
+    "type": "Cause and Solution",
+    "source": "",
+    "question": "The increasing reliance on technology has led to concerns about data privacy and security. What are the causes of this issue, and suggest solutions to ensure the protection of personal data and privacy while harnessing the benefits of technology?",
+    "paragraphSizes": [
+      3,
+      6,
+      4,
+      3,
+      2
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "The growing reliance on technology in daily life has raised serious concerns about data privacy and security.",
+        "chinese": "日常生活中对科技的依赖越来越强，这引发了人们对数据隐私和安全的严重担忧。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "As more personal information is shared online, individuals are increasingly vulnerable to data breaches, identity theft, and misuse of their private information.",
+        "chinese": "随着越来越多的个人信息被分享到网上，人们也越来越容易受到数据泄露、身份盗用和隐私信息被滥用的威胁。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "This issue arises from several causes, but there are also effective solutions to ensure the protection of personal data while still benefiting from technological advancements.",
+        "chinese": "这个问题由几个原因造成，但也有有效的解决办法，既能保护个人数据，又能继续享受科技进步带来的好处。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "One major cause of data privacy concerns is the widespread collection and storage of personal information by companies.",
+        "chinese": "引发数据隐私担忧的一个主要原因，是企业大量收集和存储个人信息。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "Many businesses gather large amounts of user data for targeted advertising, analytics, or service improvement.",
+        "chinese": "许多公司收集海量用户数据，用于精准广告、数据分析或改进服务。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "However, this data is often stored in centralized systems, making it a prime target for hackers.",
+        "chinese": "然而，这些数据往往存储在集中式系统里，因此成了黑客的首要攻击目标。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "Additionally, inadequate cybersecurity measures by organizations can result in data breaches, exposing sensitive information to unauthorized parties.",
+        "chinese": "此外，机构的网络安全措施不到位，也可能导致数据泄露，让敏感信息落入未经授权的人手中。"
+      },
+      {
+        "id": 8,
+        "paragraph": 2,
+        "english": "Another factor is the lack of awareness among users about how their data is collected and used.",
+        "chinese": "另一个因素是，许多用户并不了解自己的数据是如何被收集和使用的。"
+      },
+      {
+        "id": 9,
+        "paragraph": 2,
+        "english": "Many people unknowingly share personal information online without understanding the risks involved.",
+        "chinese": "很多人在不知不觉中就在网上分享了个人信息，却不明白其中的风险。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "To address these issues, governments and organizations must strengthen data protection regulations.",
+        "chinese": "要解决这些问题，政府和机构必须加强数据保护方面的法规。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "Strict laws, such as the General Data Protection Regulation (GDPR) in Europe, can hold companies accountable for how they collect, store, and use personal data.",
+        "chinese": "严格的法律，比如欧洲的《通用数据保护条例》（GDPR），可以让企业对自己收集、存储和使用个人数据的方式负责。"
+      },
+      {
+        "id": 12,
+        "paragraph": 3,
+        "english": "These regulations should be enforced globally to ensure that businesses prioritize user privacy.",
+        "chinese": "这些法规应该在全球范围内执行，以确保企业把用户隐私放在首位。"
+      },
+      {
+        "id": 13,
+        "paragraph": 3,
+        "english": "Additionally, companies should invest in advanced cybersecurity measures, such as encryption and multi-factor authentication, to safeguard user data from potential breaches.",
+        "chinese": "此外，企业还应该投资先进的网络安全措施，比如加密和多重身份验证，来保护用户数据免遭泄露。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "Educating individuals about data privacy is another critical solution.",
+        "chinese": "让人们了解数据隐私，也是另一个关键办法。"
+      },
+      {
+        "id": 15,
+        "paragraph": 4,
+        "english": "Public awareness campaigns can teach people how to protect their personal information, such as by using strong passwords, avoiding suspicious links, and limiting the amount of data they share online.",
+        "chinese": "公众宣传活动可以教会人们如何保护个人信息，比如使用强密码、不点可疑链接、少在网上分享数据。"
+      },
+      {
+        "id": 16,
+        "paragraph": 4,
+        "english": "Moreover, technology companies can provide clearer privacy policies and give users greater control over their data, such as options to opt out of data collection or delete their information.",
+        "chinese": "此外，科技公司可以提供更清晰的隐私政策，让用户对自己的数据有更多控制权，比如可以选择退出数据收集或删除自己的信息。"
+      },
+      {
+        "id": 17,
+        "paragraph": 5,
+        "english": "In conclusion, the increasing reliance on technology has created serious data privacy and security challenges due to excessive data collection and inadequate protection measures.",
+        "chinese": "总之，由于数据被过度收集、保护措施不足，人们对科技日益加深的依赖已经带来了严重的数据隐私和安全挑战。"
+      },
+      {
+        "id": 18,
+        "paragraph": 5,
+        "english": "However, by implementing stricter regulations, improving cybersecurity practices, and raising public awareness, it is possible to safeguard personal data while continuing to enjoy the benefits of technology.",
+        "chinese": "不过，只要实施更严格的法规、改进网络安全措施、提高公众意识，就有可能在保护个人数据的同时，继续享受科技带来的好处。"
+      }
+    ]
+  },
+  {
+    "id": "technology-multi-part",
+    "number": 20,
+    "topic": "Technology",
+    "type": "Multi-part",
+    "source": "IDP",
+    "question": "Mobile phone usage is held responsible for a lot of medical, social and technical problems. What forms do these problems take? Do you agree that the problems outweigh the advantages offered by mobile phones?",
+    "paragraphSizes": [
+      3,
+      4,
+      4,
+      3,
+      4,
+      2
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "Mobile phones have become an essential part of modern life, but their usage is often blamed for various medical, social, and technical problems.",
+        "chinese": "手机已经成为现代生活必不可少的一部分，但手机的使用也常被认为是各种健康、社交和技术问题的罪魁祸首。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "These issues include physical health concerns, weakened social interactions, and technical distractions.",
+        "chinese": "这些问题包括身体健康问题、社交互动减少，以及技术干扰。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "While these problems are significant, I believe the advantages of mobile phones outweigh the drawbacks if used responsibly.",
+        "chinese": "虽然这些问题很突出，但我认为只要合理使用，手机的好处还是大于坏处的。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "One major concern is the impact of mobile phones on physical health.",
+        "chinese": "一个主要的担忧是手机对身体健康的影响。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "Excessive screen time can lead to problems such as eye strain, headaches, and poor posture.",
+        "chinese": "长时间盯着屏幕会导致眼睛疲劳、头痛和不良姿势等问题。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "Additionally, prolonged use of mobile phones, especially before bedtime, can disrupt sleep patterns due to the blue light emitted by screens.",
+        "chinese": "此外，长时间玩手机，尤其是睡前玩手机，会因为屏幕发出的蓝光而扰乱睡眠规律。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "Another medical issue is the potential for addiction, where individuals feel compelled to check their phones constantly, leading to stress and anxiety.",
+        "chinese": "另一个健康问题是上瘾的可能：有些人会忍不住不停地查看手机，从而产生压力和焦虑。"
+      },
+      {
+        "id": 8,
+        "paragraph": 3,
+        "english": "Socially, mobile phones are often blamed for reducing the quality of face-to-face interactions.",
+        "chinese": "在社交方面，手机常被指责降低了面对面交流的质量。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "Many people prioritize online communication over real-life conversations, which can weaken relationships and lead to feelings of isolation.",
+        "chinese": "许多人把网上交流看得比现实交谈更重要，这会削弱感情，让人产生孤独感。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "For example, it is common to see people at social gatherings engrossed in their phones instead of engaging with those around them.",
+        "chinese": "比如，聚会上常见人们埋头玩手机，而不是与身边的人交流。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "This overdependence on mobile phones can harm social skills and hinder meaningful connections.",
+        "chinese": "这种对手机的过度依赖会损害社交能力，妨碍建立有意义的联系。"
+      },
+      {
+        "id": 12,
+        "paragraph": 4,
+        "english": "From a technical perspective, mobile phones are a major source of distraction.",
+        "chinese": "从技术角度看，手机是让人分心的一个主要来源。"
+      },
+      {
+        "id": 13,
+        "paragraph": 4,
+        "english": "They often interrupt work or study with constant notifications, reducing productivity.",
+        "chinese": "不断的消息提醒经常打断工作或学习，降低效率。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "Moreover, the reliance on mobile phones for navigation or information can lead to a lack of critical thinking and problem-solving skills, as people become overly dependent on technology.",
+        "chinese": "而且，依赖手机导航或查询信息会让人缺乏批判性思维和解决问题的能力，因为人们变得过度依赖技术。"
+      },
+      {
+        "id": 15,
+        "paragraph": 5,
+        "english": "Despite these problems, the advantages of mobile phones cannot be ignored.",
+        "chinese": "尽管存在这些问题，手机的好处也不容忽视。"
+      },
+      {
+        "id": 16,
+        "paragraph": 5,
+        "english": "They provide instant communication, access to information, and convenience in daily life.",
+        "chinese": "手机让人们能够即时沟通、随时获取信息，给日常生活带来便利。"
+      },
+      {
+        "id": 17,
+        "paragraph": 5,
+        "english": "Mobile phones have revolutionized industries such as healthcare, education, and business by enabling remote access and global connectivity.",
+        "chinese": "手机通过实现远程访问和全球互联，彻底改变了医疗、教育和商业等行业。"
+      },
+      {
+        "id": 18,
+        "paragraph": 5,
+        "english": "For instance, mobile apps allow people to learn new skills, access telemedicine, or stay connected with loved ones, which greatly enhances modern living.",
+        "chinese": "比如，手机应用让人们可以学习新技能、使用远程医疗或与亲人保持联系，这些都极大地提升了现代生活的品质。"
+      },
+      {
+        "id": 19,
+        "paragraph": 6,
+        "english": "In conclusion, mobile phones do contribute to medical, social, and technical problems, but their benefits, such as improved communication and access to resources, outweigh these drawbacks.",
+        "chinese": "总之，手机确实会造成医疗、社交和技术方面的问题，但它在改善沟通和获取资源等方面的好处大于这些坏处。"
+      },
+      {
+        "id": 20,
+        "paragraph": 6,
+        "english": "By using mobile phones responsibly and setting boundaries, individuals can minimize the negative effects while maximizing their advantages.",
+        "chinese": "只要合理使用手机并设定界限，人们就能把负面影响降到最低，同时最大限度地发挥它的好处。"
+      }
+    ]
+  },
+  {
+    "id": "health-opinion",
+    "number": 21,
+    "topic": "Health",
+    "type": "Opinion",
+    "source": "C16",
+    "question": "Many manufactured food and drink contains high level of sugar, which causes many health problems. Sugary products should be made more expensive to encourage people to consume less sugar. Do you agree or disagree?",
+    "paragraphSizes": [
+      3,
+      4,
+      4,
+      3,
+      3
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "Many manufactured food and drink products contain high levels of sugar, which are linked to various health problems such as obesity, diabetes, and heart disease.",
+        "chinese": "许多加工食品和饮料含有大量的糖，这与肥胖、糖尿病、心脏病等各种健康问题有关。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "To address this issue, some argue that sugary products should be made more expensive to discourage consumption.",
+        "chinese": "为了解决这个问题，有人认为应该提高含糖产品的价格，让人们少买少消费。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "I agree with this idea because increasing the price of sugary products can promote healthier choices and reduce sugar-related health problems.",
+        "chinese": "我同意这个观点，因为提高含糖产品的价格可以促使人们做出更健康的选择，并减少与糖有关的健康问题。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "One reason to support higher prices for sugary products is that it can discourage overconsumption.",
+        "chinese": "支持含糖产品涨价的一个理由是，这样做能抑制人们的过度消费。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "Many people are drawn to sugary snacks and drinks because they are cheap and easily accessible.",
+        "chinese": "很多人喜欢含糖的零食和饮料，因为它们便宜，而且随处都能买到。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "By increasing their cost through taxes or price adjustments, individuals may think twice before purchasing them.",
+        "chinese": "如果通过征税或调整价格提高它们的成本，人们在购买之前可能就会多想一想。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "This strategy has already been effective in reducing the consumption of harmful products like cigarettes and alcohol, and a similar approach could work for sugary items.",
+        "chinese": "这种办法在减少香烟、酒类等有害产品的消费上已经很有效，用在含糖产品上也可能行得通。"
+      },
+      {
+        "id": 8,
+        "paragraph": 3,
+        "english": "Another benefit of making sugary products more expensive is that it can encourage people to choose healthier alternatives.",
+        "chinese": "提高含糖产品价格的另一个好处是，它能鼓励人们选择更健康的替代品。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "For example, if sugary drinks become more costly, consumers may opt for water, unsweetened beverages, or natural juices instead.",
+        "chinese": "比如，如果含糖饮料变贵了，消费者可能会改喝水、无糖饮料或天然果汁。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "This shift could lead to better dietary habits and, over time, reduce the prevalence of sugar-related diseases.",
+        "chinese": "这种转变可以让人们养成更好的饮食习惯，长期来看，还能降低糖相关疾病的发病率。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "Additionally, the revenue generated from higher prices on sugary products could be used to fund public health campaigns or subsidize healthier food options, making them more affordable for everyone.",
+        "chinese": "此外，含糖产品涨价带来的收入，可以用来资助公共健康宣传，或者补贴更健康的食品，让每个人都买得起。"
+      },
+      {
+        "id": 12,
+        "paragraph": 4,
+        "english": "However, some argue that increasing the price of sugary products may disproportionately affect low-income individuals, who might already struggle to afford food.",
+        "chinese": "不过，也有人认为提高含糖产品的价格对低收入人群的影响更大，因为他们本来就可能难以负担食物。"
+      },
+      {
+        "id": 13,
+        "paragraph": 4,
+        "english": "While this is a valid concern, the long-term benefits of improved health outweigh the short-term financial burden.",
+        "chinese": "这种担心确实有道理，但健康改善带来的长期好处，超过了短期的经济负担。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "Moreover, governments could address this issue by ensuring that healthier alternatives are affordable and accessible to low-income communities.",
+        "chinese": "而且，政府可以确保低收入社区能买得起、买得到更健康的食品，从而解决这个问题。"
+      },
+      {
+        "id": 15,
+        "paragraph": 5,
+        "english": "In conclusion, making sugary products more expensive is an effective way to reduce their consumption and promote healthier lifestyles.",
+        "chinese": "总而言之，提高含糖产品的价格是减少消费、促进健康生活方式的有效办法。"
+      },
+      {
+        "id": 16,
+        "paragraph": 5,
+        "english": "While concerns about affordability exist, the potential health benefits, including lower rates of obesity and chronic diseases, far outweigh the drawbacks.",
+        "chinese": "虽然有人担心买不起的问题，但它潜在的健康好处，包括降低肥胖和慢性病的发病率，远远超过了弊端。"
+      },
+      {
+        "id": 17,
+        "paragraph": 5,
+        "english": "Governments should implement this measure alongside efforts to make healthy foods more accessible, ensuring a positive impact on public health.",
+        "chinese": "政府应该实施这一措施，同时努力让健康食品更容易买到，确保对公众健康产生积极影响。"
+      }
+    ]
+  },
+  {
+    "id": "health-discussion",
+    "number": 22,
+    "topic": "Health",
+    "type": "Discussion",
+    "source": "",
+    "question": "Some people think that keeping pets is good for children while others think it is dangerous and unhealthy. Which opinion do you agree with? Discuss both options and give examples.",
+    "paragraphSizes": [
+      2,
+      7,
+      6,
+      4,
+      2
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "Keeping pets has become a common practice in many households, and while some people believe that it is beneficial for children, others argue that it can be dangerous and unhealthy.",
+        "chinese": "养宠物在很多家庭已经很普遍，有人认为这对孩子有好处，也有人认为这既危险又不利于健康。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "Both perspectives have valid points, but I believe that the advantages of keeping pets for children outweigh the disadvantages.",
+        "chinese": "两种观点都有道理，但我认为养宠物对孩子的好处大于坏处。"
+      },
+      {
+        "id": 3,
+        "paragraph": 2,
+        "english": "On the one hand, keeping pets can have several positive effects on children.",
+        "chinese": "一方面，养宠物能给孩子带来不少积极影响。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "Firstly, pets can help children develop important life skills, such as responsibility and empathy.",
+        "chinese": "首先，宠物能帮助孩子培养责任感和同理心等重要的生活技能。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "For example, taking care of a dog or a cat teaches children how to feed, groom, and look after another living being.",
+        "chinese": "比如，照顾一只猫或一只狗，能教会孩子如何喂食、梳洗和照料另一个生命。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "This can help them become more caring and compassionate individuals.",
+        "chinese": "这能让他们成为更有爱心、更懂得关怀他人的人。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "Secondly, pets can provide emotional support and companionship, especially for children who may feel lonely or anxious.",
+        "chinese": "其次，宠物能提供情感上的支持和陪伴，对那些感到孤独或焦虑的孩子尤其如此。"
+      },
+      {
+        "id": 8,
+        "paragraph": 2,
+        "english": "Studies have shown that interacting with pets can reduce stress and improve mental well-being.",
+        "chinese": "研究表明，与宠物互动可以减轻压力，改善心理健康。"
+      },
+      {
+        "id": 9,
+        "paragraph": 2,
+        "english": "Additionally, having a pet can encourage physical activity, such as walking a dog, which promotes a healthier lifestyle for children.",
+        "chinese": "此外，养宠物还能促使孩子多运动，比如遛狗，这有助于孩子过上更健康的生活。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "On the other hand, some people argue that keeping pets can be dangerous and unhealthy for children.",
+        "chinese": "另一方面，也有人认为养宠物对孩子来说既危险又不健康。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "One concern is the risk of allergies or infections.",
+        "chinese": "其中一个担忧是过敏或感染的风险。"
+      },
+      {
+        "id": 12,
+        "paragraph": 3,
+        "english": "For example, some children may develop allergic reactions to pet fur or dander, which can lead to respiratory problems.",
+        "chinese": "比如，有些孩子会对宠物的毛发或皮屑过敏，进而引发呼吸道问题。"
+      },
+      {
+        "id": 13,
+        "paragraph": 3,
+        "english": "Pets can also carry germs or parasites that could potentially harm children if proper hygiene is not maintained.",
+        "chinese": "如果不注意卫生，宠物还可能携带细菌或寄生虫，对孩子造成潜在伤害。"
+      },
+      {
+        "id": 14,
+        "paragraph": 3,
+        "english": "Another concern is the risk of injuries, especially from larger animals like dogs.",
+        "chinese": "另一个担忧是受伤的风险，尤其是来自狗这类体型较大的动物。"
+      },
+      {
+        "id": 15,
+        "paragraph": 3,
+        "english": "If a pet is not well-trained or feels threatened, it could bite or scratch a child, causing physical harm.",
+        "chinese": "如果宠物没有经过良好训练，或者感到受到威胁，它可能会咬伤或抓伤孩子，造成身体上的伤害。"
+      },
+      {
+        "id": 16,
+        "paragraph": 4,
+        "english": "While these risks are valid, they can be minimized with proper precautions.",
+        "chinese": "虽然这些风险确实存在，但只要采取适当的预防措施，就能把风险降到最低。"
+      },
+      {
+        "id": 17,
+        "paragraph": 4,
+        "english": "For instance, parents can choose hypoallergenic pets for children with allergies or ensure regular vet check-ups to prevent health issues.",
+        "chinese": "比如，家长可以为过敏的孩子选择不易引起过敏的宠物，或者定期带宠物去看兽医，预防健康问题。"
+      },
+      {
+        "id": 18,
+        "paragraph": 4,
+        "english": "Training pets and teaching children how to interact with them safely can also reduce the risk of injuries.",
+        "chinese": "训练好宠物，并教会孩子如何安全地与它们相处，也能降低受伤的风险。"
+      },
+      {
+        "id": 19,
+        "paragraph": 4,
+        "english": "When these measures are taken, the benefits of keeping pets for children far outweigh the potential dangers.",
+        "chinese": "只要做到这些，养宠物给孩子带来的好处就远远超过潜在的危险。"
+      },
+      {
+        "id": 20,
+        "paragraph": 5,
+        "english": "In conclusion, while there are some risks associated with keeping pets, such as allergies or injuries, the positive impacts on children’s emotional, social, and physical development make it a worthwhile experience.",
+        "chinese": "总而言之，养宠物确实存在过敏或受伤等一些风险，但它对孩子情感、社交和身体发育的积极影响，让这件事非常值得去做。"
+      },
+      {
+        "id": 21,
+        "paragraph": 5,
+        "english": "With proper care and supervision, pets can be a valuable addition to a child’s life.",
+        "chinese": "只要照顾得当、看护到位，宠物就能成为孩子生活中的宝贵伙伴。"
+      }
+    ]
+  },
+  {
+    "id": "health-advantages-vs-disadvantages-or-positive-vs-negative",
+    "number": 23,
+    "topic": "Health",
+    "type": "Advantages vs Disadvantages or Positive vs Negative",
+    "source": "C17",
+    "question": "Nowadays, a growing number of people with health problems are trying alternative medicines and treatments instead of visiting the usual doctor. Do you think this is a positive or negative development?",
+    "paragraphSizes": [
+      3,
+      4,
+      5,
+      4,
+      3
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "In recent years, alternative medicine has gained popularity as an option for treating health problems.",
+        "chinese": "近年来，替代医学越来越受欢迎，成为治疗健康问题的一种选择。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "While some people see this trend as a positive development, others argue that it poses significant risks.",
+        "chinese": "有人认为这是一种积极的发展，也有人认为它存在很大的风险。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "In my opinion, although alternative treatments can have some benefits, relying on them instead of conventional medicine is generally a negative development due to the lack of scientific evidence and potential health risks.",
+        "chinese": "在我看来，尽管替代疗法可能有一些好处，但用它代替传统医学总体上是一种消极的发展，因为它缺乏科学依据，还可能带来健康风险。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "On the positive side, alternative medicine offers a holistic approach to health and wellness.",
+        "chinese": "从积极的一面看，替代医学提供了一种整体的健康保健方式。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "Many alternative therapies, such as acupuncture, yoga, and herbal remedies, focus on improving overall well-being rather than just treating symptoms.",
+        "chinese": "针灸、瑜伽、草药疗法等许多替代疗法，注重的是改善整体健康，而不仅仅是治疗症状。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "For example, yoga can help reduce stress and improve mental health, which may complement traditional medical treatments.",
+        "chinese": "比如，瑜伽可以帮助减轻压力、改善心理健康，能对传统医疗起到补充作用。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "Additionally, alternative medicine often emphasizes natural ingredients and non-invasive methods, which appeal to people seeking gentler options.",
+        "chinese": "此外，替代医学往往强调天然成分和非侵入性方法，这对那些想要温和疗法的人很有吸引力。"
+      },
+      {
+        "id": 8,
+        "paragraph": 3,
+        "english": "However, there are significant drawbacks to relying on alternative medicine.",
+        "chinese": "然而，依赖替代医学也有明显的弊端。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "One major concern is the lack of scientific evidence supporting many alternative treatments.",
+        "chinese": "一个主要问题是，很多替代疗法缺乏科学依据。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "Unlike conventional medicine, which undergoes rigorous testing and approval processes, alternative therapies are often based on anecdotal evidence.",
+        "chinese": "传统医学要经过严格的测试和审批，而替代疗法往往只是基于个人经验的说法。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "This can lead to people wasting time and money on ineffective treatments.",
+        "chinese": "这可能导致人们把时间和金钱浪费在无效的治疗上。"
+      },
+      {
+        "id": 12,
+        "paragraph": 3,
+        "english": "For instance, some cancer patients have delayed chemotherapy in favor of unproven remedies, resulting in worsened conditions or even death.",
+        "chinese": "比如，有些癌症患者推迟化疗，改用未经证实的疗法，结果病情恶化，甚至失去生命。"
+      },
+      {
+        "id": 13,
+        "paragraph": 4,
+        "english": "Another issue is the potential for harm.",
+        "chinese": "另一个问题是潜在的伤害风险。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "Alternative treatments are not always regulated, meaning that some products may contain harmful ingredients or incorrect dosages.",
+        "chinese": "替代疗法并不总是受到监管，这意味着有些产品可能含有有害成分，或者剂量不对。"
+      },
+      {
+        "id": 15,
+        "paragraph": 4,
+        "english": "Furthermore, relying solely on alternative medicine can delay proper diagnosis and treatment.",
+        "chinese": "此外，只依赖替代医学可能会耽误正确的诊断和治疗。"
+      },
+      {
+        "id": 16,
+        "paragraph": 4,
+        "english": "For example, a person with a serious illness might ignore symptoms while trying home remedies, allowing the condition to progress unchecked.",
+        "chinese": "比如，身患重病的人可能在尝试偏方时忽视了症状，让病情不受控制地发展下去。"
+      },
+      {
+        "id": 17,
+        "paragraph": 5,
+        "english": "In conclusion, while alternative medicine can offer some benefits, such as a holistic approach and natural remedies, its drawbacks outweigh its advantages.",
+        "chinese": "总而言之，替代医学虽然有一些好处，比如整体调理和天然疗法，但它的弊端大于好处。"
+      },
+      {
+        "id": 18,
+        "paragraph": 5,
+        "english": "The lack of scientific evidence and the risks associated with unregulated treatments make it a dangerous choice for serious health problems.",
+        "chinese": "缺乏科学依据，加上不受监管的治疗带来的风险，使它在面对严重健康问题时成为一种危险的选择。"
+      },
+      {
+        "id": 19,
+        "paragraph": 5,
+        "english": "Therefore, people should use alternative medicine cautiously and always consult a qualified doctor for serious medical issues.",
+        "chinese": "因此，人们应该谨慎使用替代医学，遇到严重的疾病一定要咨询合格的医生。"
+      }
+    ]
+  },
+  {
+    "id": "health-cause-and-solution",
+    "number": 24,
+    "topic": "Health",
+    "type": "Cause and Solution",
+    "source": "IDP",
+    "question": "In some countries the average weight of people is increasing and their levels of health and fitness are decreasing. What do you think are the causes of these problems and what measures could be taken to solve them?",
+    "paragraphSizes": [
+      3,
+      6,
+      7,
+      3,
+      3
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "In many countries, the average weight of people is rising while their levels of health and fitness are declining.",
+        "chinese": "在许多国家，人们的平均体重在不断上升，而健康和体能水平却在下降。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "This trend is concerning as it leads to a range of health problems, including obesity, diabetes, and heart disease.",
+        "chinese": "这一趋势令人担忧，因为它会导致肥胖、糖尿病、心脏病等一系列健康问题。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "There are several causes behind this issue, but it can be addressed through effective measures.",
+        "chinese": "这个问题背后有几个原因，但可以通过有效的措施来解决。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "One major cause of increasing weight and declining fitness is the widespread consumption of unhealthy, processed foods.",
+        "chinese": "体重增加、体能下降的一个主要原因，是人们大量食用不健康的加工食品。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "These foods are often high in sugar, fat, and calories, making them a leading contributor to weight gain.",
+        "chinese": "这些食品往往含有大量的糖、脂肪和热量，是导致发胖的主要元凶。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "Fast food outlets and sugary snacks are easily accessible and affordable, encouraging people to choose them over healthier options.",
+        "chinese": "快餐店和含糖零食随手可得，价格又便宜，让人们更倾向于选择它们，而不是更健康的食品。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "Another reason is the sedentary lifestyle that many people lead today.",
+        "chinese": "另一个原因是如今很多人久坐不动的生活方式。"
+      },
+      {
+        "id": 8,
+        "paragraph": 2,
+        "english": "With the rise of technology, people spend more time sitting in front of screens, whether for work or entertainment, and less time engaging in physical activities.",
+        "chinese": "随着科技的发展，人们无论是工作还是娱乐，都花更多时间坐在屏幕前，运动的时间越来越少。"
+      },
+      {
+        "id": 9,
+        "paragraph": 2,
+        "english": "This lack of exercise further contributes to poor fitness levels and weight gain.",
+        "chinese": "缺乏锻炼进一步加剧了体能下降和体重增加。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "To tackle this problem, governments and individuals must take action.",
+        "chinese": "要解决这个问题，政府和个人都必须行动起来。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "Firstly, governments can implement policies to promote healthier eating habits.",
+        "chinese": "首先，政府可以出台政策，推广更健康的饮食习惯。"
+      },
+      {
+        "id": 12,
+        "paragraph": 3,
+        "english": "For example, introducing taxes on sugary drinks and junk food can discourage their consumption, while subsidies for fruits and vegetables can make healthier options more affordable.",
+        "chinese": "比如，对含糖饮料和垃圾食品征税可以减少它们的消费，而对水果和蔬菜提供补贴可以让健康食品更便宜。"
+      },
+      {
+        "id": 13,
+        "paragraph": 3,
+        "english": "Public awareness campaigns can also educate people about the dangers of unhealthy diets and the importance of balanced nutrition.",
+        "chinese": "公众宣传活动还可以让人们了解不健康饮食的危害和均衡营养的重要性。"
+      },
+      {
+        "id": 14,
+        "paragraph": 3,
+        "english": "Secondly, encouraging physical activity is crucial.",
+        "chinese": "其次，鼓励体育锻炼也至关重要。"
+      },
+      {
+        "id": 15,
+        "paragraph": 3,
+        "english": "Governments can invest in public parks, sports facilities, and walking or cycling infrastructure to make exercise more accessible.",
+        "chinese": "政府可以投资建设公园、体育场馆以及步行道和自行车道等基础设施，让人们更方便地锻炼。"
+      },
+      {
+        "id": 16,
+        "paragraph": 3,
+        "english": "Schools and workplaces can also promote fitness programs to ensure that physical activity becomes a part of daily routines.",
+        "chinese": "学校和单位也可以开展健身活动，确保体育锻炼成为人们日常生活的一部分。"
+      },
+      {
+        "id": 17,
+        "paragraph": 4,
+        "english": "At an individual level, people need to take responsibility for their health by adopting healthier lifestyles.",
+        "chinese": "在个人层面，人们需要养成更健康的生活方式，对自己的健康负责。"
+      },
+      {
+        "id": 18,
+        "paragraph": 4,
+        "english": "This includes preparing home-cooked meals, reducing screen time, and incorporating regular exercise into their schedules, even if it is as simple as walking or jogging.",
+        "chinese": "这包括自己做饭、减少看屏幕的时间、把规律锻炼纳入日程，哪怕只是散步或慢跑这样的简单运动。"
+      },
+      {
+        "id": 19,
+        "paragraph": 4,
+        "english": "Parents also play a crucial role in shaping their children’s habits by setting a good example and encouraging outdoor activities instead of excessive use of electronic devices.",
+        "chinese": "家长在塑造孩子习惯方面也起着关键作用，他们应该以身作则，鼓励孩子多到户外活动，而不是过度使用电子产品。"
+      },
+      {
+        "id": 20,
+        "paragraph": 5,
+        "english": "In conclusion, the rising average weight and declining fitness levels in many countries are caused by unhealthy diets and sedentary lifestyles.",
+        "chinese": "总而言之，许多国家平均体重上升、体能下降的原因是不健康的饮食和久坐不动的生活方式。"
+      },
+      {
+        "id": 21,
+        "paragraph": 5,
+        "english": "However, these problems can be addressed through government policies, public awareness, and individual efforts to promote healthier eating and regular physical activity.",
+        "chinese": "不过，通过政府政策、公众宣传以及个人在健康饮食和规律锻炼上的努力，这些问题是可以解决的。"
+      },
+      {
+        "id": 22,
+        "paragraph": 5,
+        "english": "By taking these steps, societies can improve overall health and well-being.",
+        "chinese": "只要采取这些措施，社会就能提升整体的健康水平和幸福感。"
+      }
+    ]
+  },
+  {
+    "id": "health-multi-part",
+    "number": 25,
+    "topic": "Health",
+    "type": "Multi-part",
+    "source": "",
+    "question": "Many people like to eat unhealthy food even though they know it's bad for them. Why? What are the most effective ways to improve people’s eating habits?",
+    "paragraphSizes": [
+      3,
+      7,
+      6,
+      5,
+      2
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "Despite being aware of the negative health effects of unhealthy food, many people continue to consume it.",
+        "chinese": "尽管知道不健康食品对健康有害，很多人还是照吃不误。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "This behavior is influenced by several factors, including the accessibility, affordability, and appeal of unhealthy food.",
+        "chinese": "这种行为受到几个因素的影响，包括不健康食品容易买到、价格便宜、味道诱人。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "However, there are effective ways to encourage healthier eating habits and improve public health.",
+        "chinese": "不过，确实有一些有效的办法可以鼓励人们养成健康的饮食习惯，改善公众健康。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "One reason people tend to eat unhealthy food is its convenience and affordability.",
+        "chinese": "人们爱吃不健康食品的一个原因是它方便又便宜。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "Fast food and processed snacks are readily available and often cheaper than nutritious options like fresh fruits, vegetables, and lean proteins.",
+        "chinese": "快餐和加工零食随处可见，价格往往比新鲜水果、蔬菜和瘦肉等有营养的食品还便宜。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "For individuals with busy lifestyles, unhealthy food offers a quick and easy solution for meals.",
+        "chinese": "对于生活忙碌的人来说，不健康食品是解决一日三餐最快捷省事的选择。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "Another factor is the addictive nature of unhealthy food.",
+        "chinese": "另一个因素是不健康食品容易让人上瘾。"
+      },
+      {
+        "id": 8,
+        "paragraph": 2,
+        "english": "Many processed foods are designed to be highly palatable, with high levels of sugar, fat, and salt that stimulate cravings and make people want to eat more.",
+        "chinese": "很多加工食品被刻意做得特别好吃，含有大量的糖、脂肪和盐，会刺激人的食欲，让人越吃越想吃。"
+      },
+      {
+        "id": 9,
+        "paragraph": 2,
+        "english": "Additionally, advertising and marketing play a significant role in influencing eating habits.",
+        "chinese": "此外，广告和营销对饮食习惯的影响也很大。"
+      },
+      {
+        "id": 10,
+        "paragraph": 2,
+        "english": "Junk food is often heavily promoted through eye-catching advertisements, making it more appealing, especially to children and young adults.",
+        "chinese": "垃圾食品往往通过吸引眼球的广告大肆宣传，让它显得更有诱惑力，对孩子和年轻人尤其如此。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "To improve people’s eating habits, governments, communities, and individuals must take action.",
+        "chinese": "要改善人们的饮食习惯，政府、社区和个人都必须采取行动。"
+      },
+      {
+        "id": 12,
+        "paragraph": 3,
+        "english": "One effective strategy is to increase awareness about the dangers of unhealthy eating and the benefits of a balanced diet.",
+        "chinese": "一个有效的办法是提高人们对不健康饮食危害和均衡饮食好处的认识。"
+      },
+      {
+        "id": 13,
+        "paragraph": 3,
+        "english": "Public health campaigns, such as educational programs in schools or media campaigns, can help people understand the importance of making healthier choices.",
+        "chinese": "公共健康宣传，比如学校的教育课程或媒体宣传活动，可以帮助人们明白做出健康选择的重要性。"
+      },
+      {
+        "id": 14,
+        "paragraph": 3,
+        "english": "Another approach is to make healthy food more accessible and affordable.",
+        "chinese": "另一个办法是让健康食品更容易买到、更便宜。"
+      },
+      {
+        "id": 15,
+        "paragraph": 3,
+        "english": "Governments can subsidize the cost of fresh produce and impose taxes on sugary drinks and junk food to discourage their consumption.",
+        "chinese": "政府可以对新鲜农产品提供补贴，同时对含糖饮料和垃圾食品征税，以抑制它们的消费。"
+      },
+      {
+        "id": 16,
+        "paragraph": 3,
+        "english": "For example, countries that have implemented a sugar tax have seen a decline in the sales of sugary beverages.",
+        "chinese": "比如，已经实施糖税的国家，含糖饮料的销量都出现了下降。"
+      },
+      {
+        "id": 17,
+        "paragraph": 4,
+        "english": "Additionally, food labeling can play an important role in improving eating habits.",
+        "chinese": "此外，食品标签也能在改善饮食习惯方面发挥重要作用。"
+      },
+      {
+        "id": 18,
+        "paragraph": 4,
+        "english": "Clear and easy-to-understand nutritional information on packaging can help consumers make informed decisions.",
+        "chinese": "包装上清晰易懂的营养信息，可以帮助消费者做出明智的选择。"
+      },
+      {
+        "id": 19,
+        "paragraph": 4,
+        "english": "For instance, color-coded labels or warnings about high sugar, fat, or salt content can encourage people to choose healthier alternatives.",
+        "chinese": "比如，用颜色区分的标签，或者对高糖、高脂肪、高盐的警示，都能促使人们选择更健康的食品。"
+      },
+      {
+        "id": 20,
+        "paragraph": 4,
+        "english": "On an individual level, people can improve their eating habits by planning meals in advance, cooking at home, and gradually reducing their intake of processed foods.",
+        "chinese": "在个人层面，人们可以通过提前规划饮食、在家做饭、逐渐减少加工食品的摄入来改变自己的饮食习惯。"
+      },
+      {
+        "id": 21,
+        "paragraph": 4,
+        "english": "Parents can also influence their children’s eating habits by introducing healthy foods early and limiting exposure to unhealthy snacks.",
+        "chinese": "家长也可以影响孩子的饮食习惯，比如从小就让孩子接触健康食品，并限制他们吃不健康的零食。"
+      },
+      {
+        "id": 22,
+        "paragraph": 5,
+        "english": "In conclusion, despite knowing the risks, many people consume unhealthy food due to its convenience, addictive qualities, and aggressive marketing.",
+        "chinese": "总而言之，尽管知道其中的风险，很多人还是吃不健康食品，因为它方便、让人上瘾，而且营销攻势猛烈。"
+      },
+      {
+        "id": 23,
+        "paragraph": 5,
+        "english": "However, by increasing awareness, making healthy food more affordable, and providing clear nutritional information, it is possible to promote healthier eating habits and improve overall public health.",
+        "chinese": "不过，通过提高公众认识、让健康食品更便宜、提供清晰的营养信息，就能推动人们养成更健康的饮食习惯，并改善整体公众健康。"
+      }
+    ]
+  },
+  {
+    "id": "environment-opinion",
+    "number": 26,
+    "topic": "Environment",
+    "type": "Opinion",
+    "source": "",
+    "question": "Many people say that globalisation and the growing number of multinational companies have a negative effect on the environment. To what extent do you agree or disagree? Use specific reasons and examples to support your position.",
+    "paragraphSizes": [
+      3,
+      4,
+      4,
+      4,
+      2
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "Globalisation and the rise of multinational companies have brought many benefits, such as economic growth and job creation.",
+        "chinese": "全球化和跨国公司的兴起带来了许多好处，比如经济增长和创造就业机会。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "However, many argue that these developments harm the environment.",
+        "chinese": "然而，许多人认为这些发展会危害环境。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "I agree that globalisation and multinational corporations have a largely negative impact on the environment, though there are some positive aspects as well.",
+        "chinese": "我同意全球化和跨国公司对环境的影响大体上是负面的，不过也有一些积极的方面。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "One major way globalisation harms the environment is through the overuse of natural resources.",
+        "chinese": "全球化对环境造成伤害，主要体现在对自然资源的过度消耗。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "Multinational companies often exploit forests, land, and water in developing countries to meet global demand.",
+        "chinese": "为了满足全球需求，跨国公司常常大肆开发发展中国家的森林、土地和水资源。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "For example, large-scale deforestation in the Amazon is driven by multinational companies involved in agriculture and cattle farming.",
+        "chinese": "例如，从事农业和养牛业的跨国公司，推动了亚马孙地区的大规模毁林。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "This not only destroys ecosystems but also contributes to climate change.",
+        "chinese": "这不仅破坏了生态系统，还加剧了气候变化。"
+      },
+      {
+        "id": 8,
+        "paragraph": 3,
+        "english": "Another issue is pollution caused by global trade and production.",
+        "chinese": "另一个问题是全球贸易和生产造成的污染。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "The transportation of goods across the world by ships, planes, and trucks creates significant carbon emissions.",
+        "chinese": "用轮船、飞机和卡车把商品运往世界各地，会产生大量碳排放。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "For instance, industries like fast fashion produce large amounts of waste and pollution, both during manufacturing and when products are thrown away.",
+        "chinese": "比如快时尚这样的行业，无论在生产制造环节，还是产品被扔掉的时候，都会产生大量废物和污染。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "Additionally, many multinational companies set up factories in countries with weak environmental laws, where they can release harmful chemicals into the air and water without facing strict penalties.",
+        "chinese": "此外，许多跨国公司把工厂设在环境法规宽松的国家，在那里，即使它们把有害化学物质排入空气和水中，也很少受到严厉处罚。"
+      },
+      {
+        "id": 12,
+        "paragraph": 4,
+        "english": "On the other hand, globalisation has some potential to help the environment.",
+        "chinese": "另一方面，全球化也有可能对环境有所帮助。"
+      },
+      {
+        "id": 13,
+        "paragraph": 4,
+        "english": "For instance, multinational companies can invest in green technology and promote sustainable practices.",
+        "chinese": "例如，跨国公司可以投资绿色技术，并推广可持续的做法。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "Companies like Tesla, for example, are helping to reduce carbon emissions by producing electric vehicles.",
+        "chinese": "比如，特斯拉这样的公司正在通过生产电动汽车，帮助减少碳排放。"
+      },
+      {
+        "id": 15,
+        "paragraph": 4,
+        "english": "Moreover, globalisation allows countries to work together on environmental issues, as seen in international agreements like the Paris Climate Accord.",
+        "chinese": "此外，全球化让各国能够在环境问题上携手合作，《巴黎气候协定》这样的国际协议就是例证。"
+      },
+      {
+        "id": 16,
+        "paragraph": 5,
+        "english": "In conclusion, while globalisation and multinational companies have caused serious environmental problems, such as resource depletion and pollution, they also have the ability to promote solutions.",
+        "chinese": "总之，尽管全球化和跨国公司造成了资源枯竭、污染等严重的环境问题，但它们也有能力推动问题的解决。"
+      },
+      {
+        "id": 17,
+        "paragraph": 5,
+        "english": "However, stricter regulations are needed to ensure that economic growth does not come at the expense of the planet.",
+        "chinese": "然而，还需要更严格的监管，以确保经济增长不会以牺牲地球为代价。"
+      }
+    ]
+  },
+  {
+    "id": "environment-discussion",
+    "number": 27,
+    "topic": "Environment",
+    "type": "Discussion",
+    "source": "C14",
+    "question": "Some people say that the main environmental problem of our time is the loss of particular species of plants and animals. Others say that there are more important environmental problems. Discuss both these views and give your own opinion.",
+    "paragraphSizes": [
+      3,
+      5,
+      5,
+      3,
+      2
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "There is ongoing debate about the most pressing environmental problem of our time.",
+        "chinese": "对于当今最紧迫的环境问题是什么，人们一直争论不休。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "Some believe that the loss of specific species of plants and animals is the greatest concern, while others argue that there are more urgent environmental issues, such as climate change or pollution.",
+        "chinese": "有人认为，特定动植物物种的消失是最令人担忧的问题，而另一些人则认为还有更紧迫的环境问题，比如气候变化或污染。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "In this essay, I will discuss both views and explain my own perspective.",
+        "chinese": "在这篇文章中，我将讨论这两种观点，并阐述我自己的看法。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "On the one hand, the loss of plant and animal species is a major environmental issue because it disrupts ecosystems and threatens biodiversity.",
+        "chinese": "一方面，动植物物种的消失是一个重大的环境问题，因为它会扰乱生态系统，威胁生物多样性。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "Every species plays a role in maintaining the balance of nature, and the extinction of one species can have a domino effect on others.",
+        "chinese": "每个物种都在维持自然平衡中发挥着作用，一个物种的灭绝可能会对其他物种产生连锁反应。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "For example, the decline of bees, which are essential for pollination, affects the production of fruits and vegetables, which in turn impacts food security for humans.",
+        "chinese": "例如，蜜蜂对授粉至关重要，它们的数量下降会影响水果和蔬菜的产量，进而影响人类的粮食安全。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "Additionally, many plants and animals have potential scientific or medicinal value, and losing them could mean losing important resources for future generations.",
+        "chinese": "此外，许多动植物具有潜在的科学价值或药用价值，失去它们可能意味着子孙后代也将失去重要的资源。"
+      },
+      {
+        "id": 8,
+        "paragraph": 2,
+        "english": "Therefore, protecting endangered species is crucial for preserving the health of the planet.",
+        "chinese": "因此，保护濒危物种对于维护地球的健康至关重要。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "On the other hand, some people argue that other environmental problems, such as climate change, deforestation, and pollution, are more significant because they are the root causes of species loss.",
+        "chinese": "另一方面，有些人认为，气候变化、森林砍伐和污染等其他环境问题更为重要，因为它们才是物种消失的根本原因。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "For instance, rising global temperatures caused by climate change lead to habitat destruction, such as melting ice caps that threaten polar bears and rising sea levels that endanger coastal ecosystems.",
+        "chinese": "例如，气候变化引起的全球气温上升会破坏栖息地，比如冰盖融化威胁北极熊的生存，海平面上升危及沿海生态系统。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "Similarly, deforestation not only destroys the habitats of countless species but also contributes to global warming by reducing the number of trees that absorb carbon dioxide.",
+        "chinese": "同样，森林砍伐不仅摧毁了无数物种的栖息地，还因为能吸收二氧化碳的树木减少而加剧了全球变暖。"
+      },
+      {
+        "id": 12,
+        "paragraph": 3,
+        "english": "Moreover, pollution, such as plastic waste in oceans, directly harms marine life and ecosystems.",
+        "chinese": "此外，海洋中的塑料垃圾等污染直接危害海洋生物和生态系统。"
+      },
+      {
+        "id": 13,
+        "paragraph": 3,
+        "english": "These broader issues affect not only wildlife but also human populations, making them a more urgent priority.",
+        "chinese": "这些更大范围的问题不仅影响野生动物，也影响人类自身，因此更为紧迫，应当优先应对。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "In my opinion, while the loss of species is a serious problem, it is often a consequence of larger environmental issues like climate change and deforestation.",
+        "chinese": "在我看来，虽然物种消失是一个严重的问题，但它往往是气候变化和森林砍伐等更大的环境问题造成的后果。"
+      },
+      {
+        "id": 15,
+        "paragraph": 4,
+        "english": "Addressing these root causes would not only help protect endangered species but also tackle other critical challenges, such as global warming and resource depletion.",
+        "chinese": "解决这些根本原因，不仅有助于保护濒危物种，还能应对全球变暖和资源枯竭等其他重大挑战。"
+      },
+      {
+        "id": 16,
+        "paragraph": 4,
+        "english": "For example, reducing carbon emissions and promoting sustainable land use would benefit both ecosystems and the planet as a whole.",
+        "chinese": "例如，减少碳排放、推行可持续的土地利用方式，将同时造福生态系统和整个地球。"
+      },
+      {
+        "id": 17,
+        "paragraph": 5,
+        "english": "In conclusion, the loss of species is an important environmental problem, but it is closely linked to larger issues like climate change and deforestation.",
+        "chinese": "总之，物种消失是一个重要的环境问题，但它与气候变化和森林砍伐等更大的问题密切相关。"
+      },
+      {
+        "id": 18,
+        "paragraph": 5,
+        "english": "In my view, focusing on these broader problems is the most effective way to protect both wildlife and the environment.",
+        "chinese": "在我看来，聚焦这些更大的问题，是保护野生动物和整个环境最有效的方法。"
+      }
+    ]
+  },
+  {
+    "id": "environment-advantages-vs-disadvantages-or-positive-vs-negative",
+    "number": 28,
+    "topic": "Environment",
+    "type": "Advantages vs Disadvantages or Positive vs Negative",
+    "source": "IDP",
+    "question": "International tourism has brought enormous benefit to many places. At the same time, there is concern about its impact on local inhabitants and the environment. Do the disadvantages of international tourism outweigh the advantages?",
+    "paragraphSizes": [
+      3,
+      5,
+      6,
+      3,
+      3
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "International tourism has become a major source of income for many countries, bringing significant economic and cultural benefits.",
+        "chinese": "国际旅游已成为许多国家的主要收入来源，带来了可观的经济和文化收益。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "However, it also raises concerns about its negative effects on local communities and the environment.",
+        "chinese": "然而，它也让人担心会给当地社区和环境带来负面影响。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "While international tourism has its drawbacks, I believe its advantages outweigh the disadvantages if managed properly.",
+        "chinese": "尽管国际旅游有其缺点，但我认为只要管理得当，它的利就大于弊。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "On the positive side, international tourism generates substantial economic benefits.",
+        "chinese": "从积极的一面来看，国际旅游能带来可观的经济效益。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "It creates jobs in sectors such as hospitality, transportation, and entertainment, helping to improve the standard of living for local people.",
+        "chinese": "它在酒店、交通和娱乐等行业创造了就业机会，有助于提高当地人的生活水平。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "For instance, countries like Thailand and Spain rely heavily on tourism to support their economies.",
+        "chinese": "例如，泰国和西班牙等国家严重依赖旅游业来支撑本国经济。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "Furthermore, tourism promotes cultural exchange, allowing people from different parts of the world to learn about and appreciate each other’s traditions, which can foster mutual understanding and global harmony.",
+        "chinese": "此外，旅游业还促进文化交流，让世界各地的人们了解和欣赏彼此的传统，从而增进相互理解与世界和谐。"
+      },
+      {
+        "id": 8,
+        "paragraph": 2,
+        "english": "Additionally, the revenue from tourism can be used to preserve historical sites and fund environmental conservation projects.",
+        "chinese": "另外，旅游业的收入还可以用于保护历史遗迹和资助环境保护项目。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "However, international tourism also has several disadvantages.",
+        "chinese": "然而，国际旅游也有一些缺点。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "One major concern is its impact on the environment.",
+        "chinese": "其中一个主要的担忧是它对环境的影响。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "The influx of tourists often leads to pollution, deforestation, and damage to natural habitats.",
+        "chinese": "游客大量涌入，往往会带来污染、森林砍伐，并破坏自然栖息地。"
+      },
+      {
+        "id": 12,
+        "paragraph": 3,
+        "english": "For example, popular destinations like Bali and the Maldives face serious issues with plastic waste and coral reef destruction due to over-tourism.",
+        "chinese": "例如，巴厘岛和马尔代夫等热门旅游目的地，正因为游客过多而面临严重的塑料垃圾和珊瑚礁破坏问题。"
+      },
+      {
+        "id": 13,
+        "paragraph": 3,
+        "english": "Another issue is the strain on local resources, such as water and energy, which can lead to shortages for local residents.",
+        "chinese": "另一个问题是，旅游业会给当地的水和能源等资源带来压力，可能导致当地居民面临短缺。"
+      },
+      {
+        "id": 14,
+        "paragraph": 3,
+        "english": "Tourism can also disrupt local communities, as the rise in demand for accommodations and services can increase the cost of living, making it harder for locals to afford housing and basic necessities.",
+        "chinese": "旅游业还会扰乱当地社区，因为对住宿和服务的需求增加会推高生活成本，让当地人更难负担住房和基本生活必需品。"
+      },
+      {
+        "id": 15,
+        "paragraph": 4,
+        "english": "Despite these drawbacks, the negative effects of tourism can be mitigated through proper planning and sustainable practices.",
+        "chinese": "尽管有这些缺点，但只要规划得当、采用可持续的做法，就能减轻旅游业的负面影响。"
+      },
+      {
+        "id": 16,
+        "paragraph": 4,
+        "english": "Governments and businesses can implement measures such as limiting the number of tourists in sensitive areas, promoting eco-friendly tourism, and investing in waste management systems.",
+        "chinese": "政府和企业可以采取一些措施，比如限制敏感地区的游客数量、推广环保旅游、投资垃圾处理系统。"
+      },
+      {
+        "id": 17,
+        "paragraph": 4,
+        "english": "For example, Iceland has successfully managed its growing tourism industry by enforcing strict environmental regulations and encouraging sustainable travel.",
+        "chinese": "例如，冰岛通过执行严格的环境法规、鼓励可持续的旅行方式，成功应对了旅游业的不断增长。"
+      },
+      {
+        "id": 18,
+        "paragraph": 5,
+        "english": "In conclusion, while international tourism does have negative impacts on the environment and local communities, its economic and cultural benefits are significant.",
+        "chinese": "总之，虽然国际旅游确实对环境和当地社区有负面影响，但它的经济和文化效益十分显著。"
+      },
+      {
+        "id": 19,
+        "paragraph": 5,
+        "english": "With effective management and sustainable practices, the disadvantages can be minimized, making tourism a positive force for both people and the planet.",
+        "chinese": "只要管理有效、做法可持续，就能把这些缺点降到最低，让旅游业成为造福人类和地球的积极力量。"
+      },
+      {
+        "id": 20,
+        "paragraph": 5,
+        "english": "Therefore, I believe the advantages of international tourism outweigh the disadvantages.",
+        "chinese": "因此，我认为国际旅游利大于弊。"
+      }
+    ]
+  },
+  {
+    "id": "environment-cause-and-solution",
+    "number": 29,
+    "topic": "Environment",
+    "type": "Cause and Solution",
+    "source": "",
+    "question": "Influence of human beings on the world’s ecosystem is leading to the extinction of species and loss of bio-diversity. What are the primary causes of loss of bio-diversity? What solutions can you suggest?",
+    "paragraphSizes": [
+      3,
+      7,
+      8,
+      2
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "Human activities have significantly impacted the world’s ecosystems, leading to the extinction of species and a severe loss of biodiversity.",
+        "chinese": "人类活动对世界的生态系统造成了重大影响，导致物种灭绝和生物多样性的严重丧失。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "This is a critical issue, as biodiversity is essential for maintaining the balance of life on Earth.",
+        "chinese": "这是一个至关重要的问题，因为生物多样性对于维持地球上的生命平衡必不可少。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "In this essay, I will discuss the primary causes of biodiversity loss and suggest some effective solutions to address this problem.",
+        "chinese": "在这篇文章中，我将讨论生物多样性丧失的主要原因，并提出一些解决这一问题的有效办法。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "One of the main causes of biodiversity loss is habitat destruction.",
+        "chinese": "生物多样性丧失的主要原因之一是栖息地遭到破坏。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "Human activities such as deforestation, urban expansion, and agricultural development destroy natural habitats, leaving many species without a place to live.",
+        "chinese": "毁林、城市扩张和农业发展等人类活动摧毁了自然栖息地，使许多物种无处栖身。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "For example, large-scale deforestation in the Amazon rainforest has led to the disappearance of countless plant and animal species.",
+        "chinese": "例如，亚马孙雨林的大规模毁林已经导致无数动植物物种消失。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "Another major factor is pollution, including plastic waste, chemical runoff from agriculture, and air pollution, which severely harm ecosystems.",
+        "chinese": "另一个主要因素是污染，包括塑料垃圾、农业生产中流失的化学物质以及空气污染，这些都会严重危害生态系统。"
+      },
+      {
+        "id": 8,
+        "paragraph": 2,
+        "english": "For instance, marine life is being devastated by plastic pollution and oil spills, while excessive pesticide use kills insects and contaminates soil.",
+        "chinese": "例如，海洋生物正遭受塑料污染和石油泄漏的摧残，而农药的过度使用则会杀死昆虫、污染土壤。"
+      },
+      {
+        "id": 9,
+        "paragraph": 2,
+        "english": "Climate change is another significant cause, as rising temperatures and changing weather patterns disrupt ecosystems.",
+        "chinese": "气候变化是另一个重要原因，因为气温上升和天气模式的变化会扰乱生态系统。"
+      },
+      {
+        "id": 10,
+        "paragraph": 2,
+        "english": "For example, polar bears are losing their habitats due to melting ice caps, and coral reefs are dying because of ocean warming and acidification.",
+        "chinese": "例如，北极熊正因冰盖融化而失去栖息地，珊瑚礁则因海水变暖和酸化而死亡。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "To address these issues, several solutions can be implemented.",
+        "chinese": "要解决这些问题，可以采取几项措施。"
+      },
+      {
+        "id": 12,
+        "paragraph": 3,
+        "english": "First, governments and organizations should focus on protecting natural habitats by creating more national parks and wildlife reserves.",
+        "chinese": "第一，政府和有关组织应着力保护自然栖息地，建立更多的国家公园和野生动物保护区。"
+      },
+      {
+        "id": 13,
+        "paragraph": 3,
+        "english": "Strict laws should be enforced to prevent illegal logging, mining, and poaching.",
+        "chinese": "还应严格执行法律，防止非法伐木、采矿和偷猎。"
+      },
+      {
+        "id": 14,
+        "paragraph": 3,
+        "english": "Second, promoting sustainable agricultural practices can reduce the harmful effects of deforestation and chemical pollution.",
+        "chinese": "第二，推广可持续的农业做法，可以减少毁林和化学污染带来的危害。"
+      },
+      {
+        "id": 15,
+        "paragraph": 3,
+        "english": "For example, farmers can adopt organic farming and reduce the use of harmful pesticides and fertilizers.",
+        "chinese": "例如，农民可以采用有机耕作方式，减少有害农药和化肥的使用。"
+      },
+      {
+        "id": 16,
+        "paragraph": 3,
+        "english": "Third, tackling climate change is essential.",
+        "chinese": "第三，应对气候变化至关重要。"
+      },
+      {
+        "id": 17,
+        "paragraph": 3,
+        "english": "This can be achieved by reducing greenhouse gas emissions through the use of renewable energy sources, such as solar and wind power, and encouraging energy efficiency in industries and households.",
+        "chinese": "这可以通过使用太阳能、风能等可再生能源来减少温室气体排放，同时鼓励工业企业和家庭提高能源利用效率来实现。"
+      },
+      {
+        "id": 18,
+        "paragraph": 3,
+        "english": "Lastly, public awareness campaigns can educate people about the importance of biodiversity and encourage them to adopt eco-friendly practices, such as reducing waste, recycling, and supporting conservation efforts.",
+        "chinese": "最后，公众宣传教育活动可以让人们了解生物多样性的重要性，并鼓励他们养成环保习惯，比如减少浪费、回收利用、支持保护工作。"
+      },
+      {
+        "id": 19,
+        "paragraph": 4,
+        "english": "In conclusion, the loss of biodiversity is primarily caused by habitat destruction, pollution, and climate change, all of which are driven by human activities.",
+        "chinese": "总之，生物多样性的丧失主要是由栖息地破坏、污染和气候变化造成的，而这一切都是由人类活动引起的。"
+      },
+      {
+        "id": 20,
+        "paragraph": 4,
+        "english": "However, with proper conservation efforts, sustainable practices, and global cooperation, we can mitigate these problems and protect the planet’s biodiversity for future generations.",
+        "chinese": "然而，通过适当的保护工作、可持续的做法和全球合作，我们可以缓解这些问题，为子孙后代保护地球的生物多样性。"
+      }
+    ]
+  },
+  {
+    "id": "environment-multi-part",
+    "number": 30,
+    "topic": "Environment",
+    "type": "Multi-part",
+    "source": "",
+    "question": "Nowadays online shopping is extremely popular. Discuss the impact of it on the environment and on people who lost their jobs because of it.",
+    "paragraphSizes": [
+      3,
+      4,
+      4,
+      3,
+      2
+    ],
+    "sentences": [
+      {
+        "id": 1,
+        "paragraph": 1,
+        "english": "Online shopping has become incredibly popular in recent years, offering convenience and a wide range of products.",
+        "chinese": "近年来网上购物变得极受欢迎，它既方便，又能提供丰富多样的商品。"
+      },
+      {
+        "id": 2,
+        "paragraph": 1,
+        "english": "However, it has significant impacts on the environment and on people who have lost their jobs in traditional retail.",
+        "chinese": "然而，它对环境以及在传统零售业中失去工作的人都产生了重大影响。"
+      },
+      {
+        "id": 3,
+        "paragraph": 1,
+        "english": "This essay will explore these effects.",
+        "chinese": "本文将探讨这些影响。"
+      },
+      {
+        "id": 4,
+        "paragraph": 2,
+        "english": "One major impact of online shopping is on the environment.",
+        "chinese": "网上购物的一个重大影响体现在环境方面。"
+      },
+      {
+        "id": 5,
+        "paragraph": 2,
+        "english": "While it reduces the need for physical stores and personal travel, which can lower energy use and emissions, it also creates environmental problems.",
+        "chinese": "虽然它减少了对实体商店和个人出行的需求，从而可以降低能源消耗和排放，但它也带来了环境问题。"
+      },
+      {
+        "id": 6,
+        "paragraph": 2,
+        "english": "The excessive use of packaging materials, such as plastic and cardboard, contributes to waste.",
+        "chinese": "过度使用塑料、纸板等包装材料，造成了浪费。"
+      },
+      {
+        "id": 7,
+        "paragraph": 2,
+        "english": "Additionally, the demand for fast delivery services increases transportation emissions, as delivery trucks and planes make frequent trips, adding to the carbon footprint of e-commerce.",
+        "chinese": "此外，对快速配送服务的需求增加了交通排放，因为送货车和飞机频繁往返，加大了电子商务的碳足迹。"
+      },
+      {
+        "id": 8,
+        "paragraph": 3,
+        "english": "Another consequence is its effect on employment.",
+        "chinese": "另一个后果是它对就业的影响。"
+      },
+      {
+        "id": 9,
+        "paragraph": 3,
+        "english": "The rise of e-commerce has led to the decline of physical stores, forcing many retail workers to lose their jobs.",
+        "chinese": "电子商务的兴起导致实体商店衰落，许多零售从业者因此失去了工作。"
+      },
+      {
+        "id": 10,
+        "paragraph": 3,
+        "english": "Small businesses, in particular, struggle to compete with the lower prices and convenience of online platforms.",
+        "chinese": "小企业尤其难以在更低的价格和便利性方面与网络平台竞争。"
+      },
+      {
+        "id": 11,
+        "paragraph": 3,
+        "english": "Although e-commerce creates jobs in warehouses and delivery, these roles often require different skills and may offer poor working conditions and low wages, leaving many displaced workers at a disadvantage.",
+        "chinese": "尽管电子商务在仓储和配送领域创造了就业机会，但这些岗位往往需要不同的技能，而且可能工作条件差、工资低，使许多失业工人处于不利地位。"
+      },
+      {
+        "id": 12,
+        "paragraph": 4,
+        "english": "To address these issues, companies should adopt sustainable practices, such as eco-friendly packaging and optimized delivery systems.",
+        "chinese": "为了解决这些问题，企业应采取可持续的做法，比如使用环保包装和优化配送系统。"
+      },
+      {
+        "id": 13,
+        "paragraph": 4,
+        "english": "Governments can encourage slower delivery options to reduce emissions.",
+        "chinese": "政府可以鼓励采用较慢的配送方式，以减少排放。"
+      },
+      {
+        "id": 14,
+        "paragraph": 4,
+        "english": "Additionally, retraining programs can help displaced workers gain new skills and transition into roles in the e-commerce sector or other industries.",
+        "chinese": "此外，再培训项目可以帮助失业工人掌握新技能，转向电子商务领域或其他行业的岗位。"
+      },
+      {
+        "id": 15,
+        "paragraph": 5,
+        "english": "In conclusion, while online shopping offers many benefits, it has environmental drawbacks and creates challenges for those who lose their jobs.",
+        "chinese": "总之，虽然网上购物有许多好处，但它存在环境方面的弊端，也给失去工作的人带来了挑战。"
+      },
+      {
+        "id": 16,
+        "paragraph": 5,
+        "english": "By promoting sustainability and supporting workers, its negative impacts can be minimized.",
+        "chinese": "通过推行可持续的做法、为工人提供支持，就能把这些负面影响降到最低。"
+      }
+    ]
+  }
+]
