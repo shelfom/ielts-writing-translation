@@ -23,6 +23,7 @@
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "jsdom": "^29.1.1",
+    "serve": "^14.2.6",
     "tsx": "latest",
     "vitest": "^4.1.10"
   }
