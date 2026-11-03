@@ -257,8 +257,10 @@ describe('translation practice flow', () => {
     expect(screen.getByText('海归湾雅思精准学习中心')).toBeTruthy()
     expect(screen.queryByText('TURTLE BAY IELTS')).toBeNull()
     expect(screen.getByRole('link', { name: '400-061-6820' }).getAttribute('href')).toBe('tel:4000616820')
+    expect(screen.getByRole('link', { name: '186 1253 0608' }).getAttribute('href')).toBe('tel:18612530608')
+    expect(screen.getByRole('link', { name: '138 0303 9029' }).getAttribute('href')).toBe('tel:13803039029')
     expect(screen.getByRole('contentinfo').textContent?.replace(/\s/g, '')).toBe(
-      '海归湾雅思精准学习中心·400-061-6820',
+      '海归湾雅思精准学习中心·400-061-68201861253060813803039029',
     )
   })
 })
